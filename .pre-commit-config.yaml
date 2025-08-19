@@ -1,0 +1,8 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: check-notebook-output
+        name: Check for Jupyter Notebook output
+        entry: ./check_notebook_outputs.py
+        language: python
+        types: [jupyter]
