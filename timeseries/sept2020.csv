@@ -1,0 +1,1081 @@
+pollutant,date_local,time_local,date_gmt,time_gmt,value,units_of_measure,datetime_local
+Carbon monoxide,2020-09-03,00:00,2020-09-03,08:00,0.7,Parts per million,2020-09-03 00:00:00
+Carbon monoxide,2020-09-03,01:00,2020-09-03,09:00,0.7,Parts per million,2020-09-03 01:00:00
+Carbon monoxide,2020-09-03,02:00,2020-09-03,10:00,,Parts per million,2020-09-03 02:00:00
+Carbon monoxide,2020-09-03,03:00,2020-09-03,11:00,0.6,Parts per million,2020-09-03 03:00:00
+Carbon monoxide,2020-09-03,04:00,2020-09-03,12:00,0.7,Parts per million,2020-09-03 04:00:00
+Carbon monoxide,2020-09-03,05:00,2020-09-03,13:00,0.9,Parts per million,2020-09-03 05:00:00
+Carbon monoxide,2020-09-03,06:00,2020-09-03,14:00,0.7,Parts per million,2020-09-03 06:00:00
+Carbon monoxide,2020-09-03,07:00,2020-09-03,15:00,0.6,Parts per million,2020-09-03 07:00:00
+Carbon monoxide,2020-09-03,08:00,2020-09-03,16:00,0.6,Parts per million,2020-09-03 08:00:00
+Carbon monoxide,2020-09-03,09:00,2020-09-03,17:00,0.7,Parts per million,2020-09-03 09:00:00
+Carbon monoxide,2020-09-03,10:00,2020-09-03,18:00,1.0,Parts per million,2020-09-03 10:00:00
+Carbon monoxide,2020-09-03,11:00,2020-09-03,19:00,1.0,Parts per million,2020-09-03 11:00:00
+Carbon monoxide,2020-09-03,12:00,2020-09-03,20:00,0.8,Parts per million,2020-09-03 12:00:00
+Carbon monoxide,2020-09-03,13:00,2020-09-03,21:00,0.7,Parts per million,2020-09-03 13:00:00
+Carbon monoxide,2020-09-03,14:00,2020-09-03,22:00,0.7,Parts per million,2020-09-03 14:00:00
+Carbon monoxide,2020-09-03,15:00,2020-09-03,23:00,0.7,Parts per million,2020-09-03 15:00:00
+Carbon monoxide,2020-09-03,16:00,2020-09-04,00:00,0.7,Parts per million,2020-09-03 16:00:00
+Carbon monoxide,2020-09-03,17:00,2020-09-04,01:00,0.6,Parts per million,2020-09-03 17:00:00
+Carbon monoxide,2020-09-03,18:00,2020-09-04,02:00,0.6,Parts per million,2020-09-03 18:00:00
+Carbon monoxide,2020-09-03,19:00,2020-09-04,03:00,0.6,Parts per million,2020-09-03 19:00:00
+Carbon monoxide,2020-09-03,20:00,2020-09-04,04:00,0.6,Parts per million,2020-09-03 20:00:00
+Carbon monoxide,2020-09-03,21:00,2020-09-04,05:00,0.6,Parts per million,2020-09-03 21:00:00
+Carbon monoxide,2020-09-03,22:00,2020-09-04,06:00,0.6,Parts per million,2020-09-03 22:00:00
+Carbon monoxide,2020-09-03,23:00,2020-09-04,07:00,0.7,Parts per million,2020-09-03 23:00:00
+Carbon monoxide,2020-09-04,00:00,2020-09-04,08:00,0.7,Parts per million,2020-09-04 00:00:00
+Carbon monoxide,2020-09-04,01:00,2020-09-04,09:00,0.7,Parts per million,2020-09-04 01:00:00
+Carbon monoxide,2020-09-04,02:00,2020-09-04,10:00,,Parts per million,2020-09-04 02:00:00
+Carbon monoxide,2020-09-04,03:00,2020-09-04,11:00,,Parts per million,2020-09-04 03:00:00
+Carbon monoxide,2020-09-04,04:00,2020-09-04,12:00,,Parts per million,2020-09-04 04:00:00
+Carbon monoxide,2020-09-04,05:00,2020-09-04,13:00,,Parts per million,2020-09-04 05:00:00
+Carbon monoxide,2020-09-04,06:00,2020-09-04,14:00,,Parts per million,2020-09-04 06:00:00
+Carbon monoxide,2020-09-04,07:00,2020-09-04,15:00,0.7,Parts per million,2020-09-04 07:00:00
+Carbon monoxide,2020-09-04,08:00,2020-09-04,16:00,0.7,Parts per million,2020-09-04 08:00:00
+Carbon monoxide,2020-09-04,09:00,2020-09-04,17:00,0.6,Parts per million,2020-09-04 09:00:00
+Carbon monoxide,2020-09-04,10:00,2020-09-04,18:00,0.6,Parts per million,2020-09-04 10:00:00
+Carbon monoxide,2020-09-04,11:00,2020-09-04,19:00,0.7,Parts per million,2020-09-04 11:00:00
+Carbon monoxide,2020-09-04,12:00,2020-09-04,20:00,0.7,Parts per million,2020-09-04 12:00:00
+Carbon monoxide,2020-09-04,13:00,2020-09-04,21:00,0.7,Parts per million,2020-09-04 13:00:00
+Carbon monoxide,2020-09-04,14:00,2020-09-04,22:00,0.7,Parts per million,2020-09-04 14:00:00
+Carbon monoxide,2020-09-04,15:00,2020-09-04,23:00,0.6,Parts per million,2020-09-04 15:00:00
+Carbon monoxide,2020-09-04,16:00,2020-09-05,00:00,0.6,Parts per million,2020-09-04 16:00:00
+Carbon monoxide,2020-09-04,17:00,2020-09-05,01:00,0.7,Parts per million,2020-09-04 17:00:00
+Carbon monoxide,2020-09-04,18:00,2020-09-05,02:00,0.7,Parts per million,2020-09-04 18:00:00
+Carbon monoxide,2020-09-04,19:00,2020-09-05,03:00,0.6,Parts per million,2020-09-04 19:00:00
+Carbon monoxide,2020-09-04,20:00,2020-09-05,04:00,0.6,Parts per million,2020-09-04 20:00:00
+Carbon monoxide,2020-09-04,21:00,2020-09-05,05:00,0.6,Parts per million,2020-09-04 21:00:00
+Carbon monoxide,2020-09-04,22:00,2020-09-05,06:00,0.6,Parts per million,2020-09-04 22:00:00
+Carbon monoxide,2020-09-04,23:00,2020-09-05,07:00,0.6,Parts per million,2020-09-04 23:00:00
+Carbon monoxide,2020-09-05,00:00,2020-09-05,08:00,0.6,Parts per million,2020-09-05 00:00:00
+Carbon monoxide,2020-09-05,01:00,2020-09-05,09:00,0.5,Parts per million,2020-09-05 01:00:00
+Carbon monoxide,2020-09-05,02:00,2020-09-05,10:00,,Parts per million,2020-09-05 02:00:00
+Carbon monoxide,2020-09-05,03:00,2020-09-05,11:00,0.6,Parts per million,2020-09-05 03:00:00
+Carbon monoxide,2020-09-05,04:00,2020-09-05,12:00,0.8,Parts per million,2020-09-05 04:00:00
+Carbon monoxide,2020-09-05,05:00,2020-09-05,13:00,0.7,Parts per million,2020-09-05 05:00:00
+Carbon monoxide,2020-09-05,06:00,2020-09-05,14:00,0.9,Parts per million,2020-09-05 06:00:00
+Carbon monoxide,2020-09-05,07:00,2020-09-05,15:00,0.9,Parts per million,2020-09-05 07:00:00
+Carbon monoxide,2020-09-05,08:00,2020-09-05,16:00,0.6,Parts per million,2020-09-05 08:00:00
+Carbon monoxide,2020-09-05,09:00,2020-09-05,17:00,0.6,Parts per million,2020-09-05 09:00:00
+Carbon monoxide,2020-09-05,10:00,2020-09-05,18:00,0.5,Parts per million,2020-09-05 10:00:00
+Carbon monoxide,2020-09-05,11:00,2020-09-05,19:00,0.5,Parts per million,2020-09-05 11:00:00
+Carbon monoxide,2020-09-05,12:00,2020-09-05,20:00,0.6,Parts per million,2020-09-05 12:00:00
+Carbon monoxide,2020-09-05,13:00,2020-09-05,21:00,0.7,Parts per million,2020-09-05 13:00:00
+Carbon monoxide,2020-09-05,14:00,2020-09-05,22:00,0.7,Parts per million,2020-09-05 14:00:00
+Carbon monoxide,2020-09-05,15:00,2020-09-05,23:00,0.8,Parts per million,2020-09-05 15:00:00
+Carbon monoxide,2020-09-05,16:00,2020-09-06,00:00,0.8,Parts per million,2020-09-05 16:00:00
+Carbon monoxide,2020-09-05,17:00,2020-09-06,01:00,0.8,Parts per million,2020-09-05 17:00:00
+Carbon monoxide,2020-09-05,18:00,2020-09-06,02:00,0.9,Parts per million,2020-09-05 18:00:00
+Carbon monoxide,2020-09-05,19:00,2020-09-06,03:00,0.9,Parts per million,2020-09-05 19:00:00
+Carbon monoxide,2020-09-05,20:00,2020-09-06,04:00,1.1,Parts per million,2020-09-05 20:00:00
+Carbon monoxide,2020-09-05,21:00,2020-09-06,05:00,0.9,Parts per million,2020-09-05 21:00:00
+Carbon monoxide,2020-09-05,22:00,2020-09-06,06:00,0.7,Parts per million,2020-09-05 22:00:00
+Carbon monoxide,2020-09-05,23:00,2020-09-06,07:00,1.0,Parts per million,2020-09-05 23:00:00
+Carbon monoxide,2020-09-06,00:00,2020-09-06,08:00,0.9,Parts per million,2020-09-06 00:00:00
+Carbon monoxide,2020-09-06,01:00,2020-09-06,09:00,0.8,Parts per million,2020-09-06 01:00:00
+Carbon monoxide,2020-09-06,02:00,2020-09-06,10:00,,Parts per million,2020-09-06 02:00:00
+Carbon monoxide,2020-09-06,03:00,2020-09-06,11:00,,Parts per million,2020-09-06 03:00:00
+Carbon monoxide,2020-09-06,04:00,2020-09-06,12:00,0.6,Parts per million,2020-09-06 04:00:00
+Carbon monoxide,2020-09-06,05:00,2020-09-06,13:00,0.6,Parts per million,2020-09-06 05:00:00
+Carbon monoxide,2020-09-06,06:00,2020-09-06,14:00,0.7,Parts per million,2020-09-06 06:00:00
+Carbon monoxide,2020-09-06,07:00,2020-09-06,15:00,0.7,Parts per million,2020-09-06 07:00:00
+Carbon monoxide,2020-09-06,08:00,2020-09-06,16:00,0.7,Parts per million,2020-09-06 08:00:00
+Carbon monoxide,2020-09-06,09:00,2020-09-06,17:00,0.7,Parts per million,2020-09-06 09:00:00
+Carbon monoxide,2020-09-06,10:00,2020-09-06,18:00,0.7,Parts per million,2020-09-06 10:00:00
+Carbon monoxide,2020-09-06,11:00,2020-09-06,19:00,0.6,Parts per million,2020-09-06 11:00:00
+Carbon monoxide,2020-09-06,12:00,2020-09-06,20:00,0.8,Parts per million,2020-09-06 12:00:00
+Carbon monoxide,2020-09-06,13:00,2020-09-06,21:00,0.9,Parts per million,2020-09-06 13:00:00
+Carbon monoxide,2020-09-06,14:00,2020-09-06,22:00,0.9,Parts per million,2020-09-06 14:00:00
+Carbon monoxide,2020-09-06,15:00,2020-09-06,23:00,0.9,Parts per million,2020-09-06 15:00:00
+Carbon monoxide,2020-09-06,16:00,2020-09-07,00:00,0.9,Parts per million,2020-09-06 16:00:00
+Carbon monoxide,2020-09-06,17:00,2020-09-07,01:00,1.0,Parts per million,2020-09-06 17:00:00
+Carbon monoxide,2020-09-06,18:00,2020-09-07,02:00,1.2,Parts per million,2020-09-06 18:00:00
+Carbon monoxide,2020-09-06,19:00,2020-09-07,03:00,1.5,Parts per million,2020-09-06 19:00:00
+Carbon monoxide,2020-09-06,20:00,2020-09-07,04:00,1.6,Parts per million,2020-09-06 20:00:00
+Carbon monoxide,2020-09-06,21:00,2020-09-07,05:00,1.4,Parts per million,2020-09-06 21:00:00
+Carbon monoxide,2020-09-06,22:00,2020-09-07,06:00,1.1,Parts per million,2020-09-06 22:00:00
+Carbon monoxide,2020-09-06,23:00,2020-09-07,07:00,0.8,Parts per million,2020-09-06 23:00:00
+Carbon monoxide,2020-09-07,00:00,2020-09-07,08:00,0.7,Parts per million,2020-09-07 00:00:00
+Carbon monoxide,2020-09-07,01:00,2020-09-07,09:00,0.7,Parts per million,2020-09-07 01:00:00
+Carbon monoxide,2020-09-07,02:00,2020-09-07,10:00,,Parts per million,2020-09-07 02:00:00
+Carbon monoxide,2020-09-07,03:00,2020-09-07,11:00,0.7,Parts per million,2020-09-07 03:00:00
+Carbon monoxide,2020-09-07,04:00,2020-09-07,12:00,0.9,Parts per million,2020-09-07 04:00:00
+Carbon monoxide,2020-09-07,05:00,2020-09-07,13:00,0.7,Parts per million,2020-09-07 05:00:00
+Carbon monoxide,2020-09-07,06:00,2020-09-07,14:00,0.7,Parts per million,2020-09-07 06:00:00
+Carbon monoxide,2020-09-07,07:00,2020-09-07,15:00,0.7,Parts per million,2020-09-07 07:00:00
+Carbon monoxide,2020-09-07,08:00,2020-09-07,16:00,0.7,Parts per million,2020-09-07 08:00:00
+Carbon monoxide,2020-09-07,09:00,2020-09-07,17:00,0.7,Parts per million,2020-09-07 09:00:00
+Carbon monoxide,2020-09-07,10:00,2020-09-07,18:00,0.6,Parts per million,2020-09-07 10:00:00
+Carbon monoxide,2020-09-07,11:00,2020-09-07,19:00,0.7,Parts per million,2020-09-07 11:00:00
+Carbon monoxide,2020-09-07,12:00,2020-09-07,20:00,0.7,Parts per million,2020-09-07 12:00:00
+Carbon monoxide,2020-09-07,13:00,2020-09-07,21:00,0.7,Parts per million,2020-09-07 13:00:00
+Carbon monoxide,2020-09-07,14:00,2020-09-07,22:00,0.7,Parts per million,2020-09-07 14:00:00
+Carbon monoxide,2020-09-07,15:00,2020-09-07,23:00,0.7,Parts per million,2020-09-07 15:00:00
+Carbon monoxide,2020-09-07,16:00,2020-09-08,00:00,0.6,Parts per million,2020-09-07 16:00:00
+Carbon monoxide,2020-09-07,17:00,2020-09-08,01:00,0.6,Parts per million,2020-09-07 17:00:00
+Carbon monoxide,2020-09-07,18:00,2020-09-08,02:00,0.6,Parts per million,2020-09-07 18:00:00
+Carbon monoxide,2020-09-07,19:00,2020-09-08,03:00,0.5,Parts per million,2020-09-07 19:00:00
+Carbon monoxide,2020-09-07,20:00,2020-09-08,04:00,0.5,Parts per million,2020-09-07 20:00:00
+Carbon monoxide,2020-09-07,21:00,2020-09-08,05:00,0.5,Parts per million,2020-09-07 21:00:00
+Carbon monoxide,2020-09-07,22:00,2020-09-08,06:00,0.5,Parts per million,2020-09-07 22:00:00
+Carbon monoxide,2020-09-07,23:00,2020-09-08,07:00,0.5,Parts per million,2020-09-07 23:00:00
+Carbon monoxide,2020-09-08,00:00,2020-09-08,08:00,0.5,Parts per million,2020-09-08 00:00:00
+Carbon monoxide,2020-09-08,01:00,2020-09-08,09:00,0.4,Parts per million,2020-09-08 01:00:00
+Carbon monoxide,2020-09-08,02:00,2020-09-08,10:00,,Parts per million,2020-09-08 02:00:00
+Carbon monoxide,2020-09-08,03:00,2020-09-08,11:00,0.5,Parts per million,2020-09-08 03:00:00
+Carbon monoxide,2020-09-08,04:00,2020-09-08,12:00,0.5,Parts per million,2020-09-08 04:00:00
+Carbon monoxide,2020-09-08,05:00,2020-09-08,13:00,0.5,Parts per million,2020-09-08 05:00:00
+Carbon monoxide,2020-09-08,06:00,2020-09-08,14:00,0.5,Parts per million,2020-09-08 06:00:00
+Carbon monoxide,2020-09-08,07:00,2020-09-08,15:00,0.5,Parts per million,2020-09-08 07:00:00
+Carbon monoxide,2020-09-08,08:00,2020-09-08,16:00,0.5,Parts per million,2020-09-08 08:00:00
+Carbon monoxide,2020-09-08,09:00,2020-09-08,17:00,0.6,Parts per million,2020-09-08 09:00:00
+Carbon monoxide,2020-09-08,10:00,2020-09-08,18:00,0.6,Parts per million,2020-09-08 10:00:00
+Carbon monoxide,2020-09-08,11:00,2020-09-08,19:00,0.7,Parts per million,2020-09-08 11:00:00
+Carbon monoxide,2020-09-08,12:00,2020-09-08,20:00,0.6,Parts per million,2020-09-08 12:00:00
+Carbon monoxide,2020-09-08,13:00,2020-09-08,21:00,0.6,Parts per million,2020-09-08 13:00:00
+Carbon monoxide,2020-09-08,14:00,2020-09-08,22:00,0.6,Parts per million,2020-09-08 14:00:00
+Carbon monoxide,2020-09-08,15:00,2020-09-08,23:00,0.6,Parts per million,2020-09-08 15:00:00
+Carbon monoxide,2020-09-08,16:00,2020-09-09,00:00,0.5,Parts per million,2020-09-08 16:00:00
+Carbon monoxide,2020-09-08,17:00,2020-09-09,01:00,0.5,Parts per million,2020-09-08 17:00:00
+Carbon monoxide,2020-09-08,18:00,2020-09-09,02:00,0.5,Parts per million,2020-09-08 18:00:00
+Carbon monoxide,2020-09-08,19:00,2020-09-09,03:00,0.5,Parts per million,2020-09-08 19:00:00
+Carbon monoxide,2020-09-08,20:00,2020-09-09,04:00,0.5,Parts per million,2020-09-08 20:00:00
+Carbon monoxide,2020-09-08,21:00,2020-09-09,05:00,0.5,Parts per million,2020-09-08 21:00:00
+Carbon monoxide,2020-09-08,22:00,2020-09-09,06:00,0.5,Parts per million,2020-09-08 22:00:00
+Carbon monoxide,2020-09-08,23:00,2020-09-09,07:00,0.5,Parts per million,2020-09-08 23:00:00
+Carbon monoxide,2020-09-09,00:00,2020-09-09,08:00,0.5,Parts per million,2020-09-09 00:00:00
+Carbon monoxide,2020-09-09,01:00,2020-09-09,09:00,0.5,Parts per million,2020-09-09 01:00:00
+Carbon monoxide,2020-09-09,02:00,2020-09-09,10:00,,Parts per million,2020-09-09 02:00:00
+Carbon monoxide,2020-09-09,03:00,2020-09-09,11:00,0.5,Parts per million,2020-09-09 03:00:00
+Carbon monoxide,2020-09-09,04:00,2020-09-09,12:00,0.6,Parts per million,2020-09-09 04:00:00
+Carbon monoxide,2020-09-09,05:00,2020-09-09,13:00,0.6,Parts per million,2020-09-09 05:00:00
+Carbon monoxide,2020-09-09,06:00,2020-09-09,14:00,0.7,Parts per million,2020-09-09 06:00:00
+Carbon monoxide,2020-09-09,07:00,2020-09-09,15:00,0.6,Parts per million,2020-09-09 07:00:00
+Carbon monoxide,2020-09-09,08:00,2020-09-09,16:00,0.7,Parts per million,2020-09-09 08:00:00
+Carbon monoxide,2020-09-09,09:00,2020-09-09,17:00,0.8,Parts per million,2020-09-09 09:00:00
+Carbon monoxide,2020-09-09,10:00,2020-09-09,18:00,0.7,Parts per million,2020-09-09 10:00:00
+Carbon monoxide,2020-09-09,11:00,2020-09-09,19:00,0.8,Parts per million,2020-09-09 11:00:00
+Carbon monoxide,2020-09-09,12:00,2020-09-09,20:00,0.7,Parts per million,2020-09-09 12:00:00
+Carbon monoxide,2020-09-09,13:00,2020-09-09,21:00,0.7,Parts per million,2020-09-09 13:00:00
+Carbon monoxide,2020-09-09,14:00,2020-09-09,22:00,0.8,Parts per million,2020-09-09 14:00:00
+Carbon monoxide,2020-09-09,15:00,2020-09-09,23:00,0.9,Parts per million,2020-09-09 15:00:00
+Carbon monoxide,2020-09-09,16:00,2020-09-10,00:00,0.9,Parts per million,2020-09-09 16:00:00
+Carbon monoxide,2020-09-09,17:00,2020-09-10,01:00,0.9,Parts per million,2020-09-09 17:00:00
+Carbon monoxide,2020-09-09,18:00,2020-09-10,02:00,0.9,Parts per million,2020-09-09 18:00:00
+Carbon monoxide,2020-09-09,19:00,2020-09-10,03:00,0.9,Parts per million,2020-09-09 19:00:00
+Carbon monoxide,2020-09-09,20:00,2020-09-10,04:00,0.9,Parts per million,2020-09-09 20:00:00
+Carbon monoxide,2020-09-09,21:00,2020-09-10,05:00,0.9,Parts per million,2020-09-09 21:00:00
+Carbon monoxide,2020-09-09,22:00,2020-09-10,06:00,1.0,Parts per million,2020-09-09 22:00:00
+Carbon monoxide,2020-09-09,23:00,2020-09-10,07:00,0.9,Parts per million,2020-09-09 23:00:00
+Carbon monoxide,2020-09-10,00:00,2020-09-10,08:00,0.9,Parts per million,2020-09-10 00:00:00
+Carbon monoxide,2020-09-10,01:00,2020-09-10,09:00,0.9,Parts per million,2020-09-10 01:00:00
+Carbon monoxide,2020-09-10,02:00,2020-09-10,10:00,,Parts per million,2020-09-10 02:00:00
+Carbon monoxide,2020-09-10,03:00,2020-09-10,11:00,,Parts per million,2020-09-10 03:00:00
+Carbon monoxide,2020-09-10,04:00,2020-09-10,12:00,0.9,Parts per million,2020-09-10 04:00:00
+Carbon monoxide,2020-09-10,05:00,2020-09-10,13:00,0.9,Parts per million,2020-09-10 05:00:00
+Carbon monoxide,2020-09-10,06:00,2020-09-10,14:00,1.0,Parts per million,2020-09-10 06:00:00
+Carbon monoxide,2020-09-10,07:00,2020-09-10,15:00,1.0,Parts per million,2020-09-10 07:00:00
+Carbon monoxide,2020-09-10,08:00,2020-09-10,16:00,1.0,Parts per million,2020-09-10 08:00:00
+Carbon monoxide,2020-09-10,09:00,2020-09-10,17:00,1.1,Parts per million,2020-09-10 09:00:00
+Carbon monoxide,2020-09-10,10:00,2020-09-10,18:00,1.2,Parts per million,2020-09-10 10:00:00
+Carbon monoxide,2020-09-10,11:00,2020-09-10,19:00,1.2,Parts per million,2020-09-10 11:00:00
+Carbon monoxide,2020-09-10,12:00,2020-09-10,20:00,1.1,Parts per million,2020-09-10 12:00:00
+Carbon monoxide,2020-09-10,13:00,2020-09-10,21:00,1.5,Parts per million,2020-09-10 13:00:00
+Carbon monoxide,2020-09-10,14:00,2020-09-10,22:00,1.6,Parts per million,2020-09-10 14:00:00
+Carbon monoxide,2020-09-10,15:00,2020-09-10,23:00,1.7,Parts per million,2020-09-10 15:00:00
+Carbon monoxide,2020-09-10,16:00,2020-09-11,00:00,1.8,Parts per million,2020-09-10 16:00:00
+Carbon monoxide,2020-09-10,17:00,2020-09-11,01:00,1.7,Parts per million,2020-09-10 17:00:00
+Carbon monoxide,2020-09-10,18:00,2020-09-11,02:00,1.5,Parts per million,2020-09-10 18:00:00
+Carbon monoxide,2020-09-10,19:00,2020-09-11,03:00,1.6,Parts per million,2020-09-10 19:00:00
+Carbon monoxide,2020-09-10,20:00,2020-09-11,04:00,1.6,Parts per million,2020-09-10 20:00:00
+Carbon monoxide,2020-09-10,21:00,2020-09-11,05:00,1.6,Parts per million,2020-09-10 21:00:00
+Carbon monoxide,2020-09-10,22:00,2020-09-11,06:00,1.6,Parts per million,2020-09-10 22:00:00
+Carbon monoxide,2020-09-10,23:00,2020-09-11,07:00,1.6,Parts per million,2020-09-10 23:00:00
+Carbon monoxide,2020-09-11,00:00,2020-09-11,08:00,1.7,Parts per million,2020-09-11 00:00:00
+Carbon monoxide,2020-09-11,01:00,2020-09-11,09:00,1.7,Parts per million,2020-09-11 01:00:00
+Carbon monoxide,2020-09-11,02:00,2020-09-11,10:00,,Parts per million,2020-09-11 02:00:00
+Carbon monoxide,2020-09-11,03:00,2020-09-11,11:00,1.7,Parts per million,2020-09-11 03:00:00
+Carbon monoxide,2020-09-11,04:00,2020-09-11,12:00,1.8,Parts per million,2020-09-11 04:00:00
+Carbon monoxide,2020-09-11,05:00,2020-09-11,13:00,1.9,Parts per million,2020-09-11 05:00:00
+Carbon monoxide,2020-09-11,06:00,2020-09-11,14:00,2.0,Parts per million,2020-09-11 06:00:00
+Carbon monoxide,2020-09-11,07:00,2020-09-11,15:00,2.1,Parts per million,2020-09-11 07:00:00
+Carbon monoxide,2020-09-11,08:00,2020-09-11,16:00,1.9,Parts per million,2020-09-11 08:00:00
+Carbon monoxide,2020-09-11,09:00,2020-09-11,17:00,1.9,Parts per million,2020-09-11 09:00:00
+Carbon monoxide,2020-09-11,10:00,2020-09-11,18:00,1.7,Parts per million,2020-09-11 10:00:00
+Carbon monoxide,2020-09-11,11:00,2020-09-11,19:00,1.6,Parts per million,2020-09-11 11:00:00
+Carbon monoxide,2020-09-11,12:00,2020-09-11,20:00,1.4,Parts per million,2020-09-11 12:00:00
+Carbon monoxide,2020-09-11,13:00,2020-09-11,21:00,1.5,Parts per million,2020-09-11 13:00:00
+Carbon monoxide,2020-09-11,14:00,2020-09-11,22:00,1.7,Parts per million,2020-09-11 14:00:00
+Carbon monoxide,2020-09-11,15:00,2020-09-11,23:00,1.8,Parts per million,2020-09-11 15:00:00
+Carbon monoxide,2020-09-11,16:00,2020-09-12,00:00,1.8,Parts per million,2020-09-11 16:00:00
+Carbon monoxide,2020-09-11,17:00,2020-09-12,01:00,1.9,Parts per million,2020-09-11 17:00:00
+Carbon monoxide,2020-09-11,18:00,2020-09-12,02:00,1.8,Parts per million,2020-09-11 18:00:00
+Carbon monoxide,2020-09-11,19:00,2020-09-12,03:00,1.7,Parts per million,2020-09-11 19:00:00
+Carbon monoxide,2020-09-11,20:00,2020-09-12,04:00,1.7,Parts per million,2020-09-11 20:00:00
+Carbon monoxide,2020-09-11,21:00,2020-09-12,05:00,1.7,Parts per million,2020-09-11 21:00:00
+Carbon monoxide,2020-09-11,22:00,2020-09-12,06:00,1.7,Parts per million,2020-09-11 22:00:00
+Carbon monoxide,2020-09-11,23:00,2020-09-12,07:00,1.6,Parts per million,2020-09-11 23:00:00
+Carbon monoxide,2020-09-12,00:00,2020-09-12,08:00,1.6,Parts per million,2020-09-12 00:00:00
+Carbon monoxide,2020-09-12,01:00,2020-09-12,09:00,1.6,Parts per million,2020-09-12 01:00:00
+Carbon monoxide,2020-09-12,02:00,2020-09-12,10:00,,Parts per million,2020-09-12 02:00:00
+Carbon monoxide,2020-09-12,03:00,2020-09-12,11:00,,Parts per million,2020-09-12 03:00:00
+Carbon monoxide,2020-09-12,04:00,2020-09-12,12:00,1.6,Parts per million,2020-09-12 04:00:00
+Carbon monoxide,2020-09-12,05:00,2020-09-12,13:00,1.6,Parts per million,2020-09-12 05:00:00
+Carbon monoxide,2020-09-12,06:00,2020-09-12,14:00,1.7,Parts per million,2020-09-12 06:00:00
+Carbon monoxide,2020-09-12,07:00,2020-09-12,15:00,1.7,Parts per million,2020-09-12 07:00:00
+Carbon monoxide,2020-09-12,08:00,2020-09-12,16:00,1.8,Parts per million,2020-09-12 08:00:00
+Carbon monoxide,2020-09-12,09:00,2020-09-12,17:00,1.7,Parts per million,2020-09-12 09:00:00
+Carbon monoxide,2020-09-12,10:00,2020-09-12,18:00,1.8,Parts per million,2020-09-12 10:00:00
+Carbon monoxide,2020-09-12,11:00,2020-09-12,19:00,1.7,Parts per million,2020-09-12 11:00:00
+Carbon monoxide,2020-09-12,12:00,2020-09-12,20:00,1.4,Parts per million,2020-09-12 12:00:00
+Carbon monoxide,2020-09-12,13:00,2020-09-12,21:00,1.7,Parts per million,2020-09-12 13:00:00
+Carbon monoxide,2020-09-12,14:00,2020-09-12,22:00,1.7,Parts per million,2020-09-12 14:00:00
+Carbon monoxide,2020-09-12,15:00,2020-09-12,23:00,1.7,Parts per million,2020-09-12 15:00:00
+Carbon monoxide,2020-09-12,16:00,2020-09-13,00:00,1.8,Parts per million,2020-09-12 16:00:00
+Carbon monoxide,2020-09-12,17:00,2020-09-13,01:00,1.8,Parts per million,2020-09-12 17:00:00
+Carbon monoxide,2020-09-12,18:00,2020-09-13,02:00,1.8,Parts per million,2020-09-12 18:00:00
+Carbon monoxide,2020-09-12,19:00,2020-09-13,03:00,1.7,Parts per million,2020-09-12 19:00:00
+Carbon monoxide,2020-09-12,20:00,2020-09-13,04:00,1.9,Parts per million,2020-09-12 20:00:00
+Carbon monoxide,2020-09-12,21:00,2020-09-13,05:00,1.8,Parts per million,2020-09-12 21:00:00
+Carbon monoxide,2020-09-12,22:00,2020-09-13,06:00,1.8,Parts per million,2020-09-12 22:00:00
+Carbon monoxide,2020-09-12,23:00,2020-09-13,07:00,1.8,Parts per million,2020-09-12 23:00:00
+Carbon monoxide,2020-09-13,00:00,2020-09-13,08:00,1.8,Parts per million,2020-09-13 00:00:00
+Carbon monoxide,2020-09-13,01:00,2020-09-13,09:00,1.8,Parts per million,2020-09-13 01:00:00
+Carbon monoxide,2020-09-13,02:00,2020-09-13,10:00,,Parts per million,2020-09-13 02:00:00
+Carbon monoxide,2020-09-13,03:00,2020-09-13,11:00,1.8,Parts per million,2020-09-13 03:00:00
+Carbon monoxide,2020-09-13,04:00,2020-09-13,12:00,1.8,Parts per million,2020-09-13 04:00:00
+Carbon monoxide,2020-09-13,05:00,2020-09-13,13:00,1.8,Parts per million,2020-09-13 05:00:00
+Carbon monoxide,2020-09-13,06:00,2020-09-13,14:00,1.8,Parts per million,2020-09-13 06:00:00
+Carbon monoxide,2020-09-13,07:00,2020-09-13,15:00,2.0,Parts per million,2020-09-13 07:00:00
+Carbon monoxide,2020-09-13,08:00,2020-09-13,16:00,1.8,Parts per million,2020-09-13 08:00:00
+Carbon monoxide,2020-09-13,09:00,2020-09-13,17:00,1.8,Parts per million,2020-09-13 09:00:00
+Carbon monoxide,2020-09-13,10:00,2020-09-13,18:00,1.8,Parts per million,2020-09-13 10:00:00
+Carbon monoxide,2020-09-13,11:00,2020-09-13,19:00,1.7,Parts per million,2020-09-13 11:00:00
+Carbon monoxide,2020-09-13,12:00,2020-09-13,20:00,1.6,Parts per million,2020-09-13 12:00:00
+Carbon monoxide,2020-09-13,13:00,2020-09-13,21:00,1.6,Parts per million,2020-09-13 13:00:00
+Carbon monoxide,2020-09-13,14:00,2020-09-13,22:00,1.6,Parts per million,2020-09-13 14:00:00
+Carbon monoxide,2020-09-13,15:00,2020-09-13,23:00,1.6,Parts per million,2020-09-13 15:00:00
+Carbon monoxide,2020-09-13,16:00,2020-09-14,00:00,1.7,Parts per million,2020-09-13 16:00:00
+Carbon monoxide,2020-09-13,17:00,2020-09-14,01:00,1.8,Parts per million,2020-09-13 17:00:00
+Carbon monoxide,2020-09-13,18:00,2020-09-14,02:00,1.8,Parts per million,2020-09-13 18:00:00
+Carbon monoxide,2020-09-13,19:00,2020-09-14,03:00,1.7,Parts per million,2020-09-13 19:00:00
+Carbon monoxide,2020-09-13,20:00,2020-09-14,04:00,1.8,Parts per million,2020-09-13 20:00:00
+Carbon monoxide,2020-09-13,21:00,2020-09-14,05:00,1.7,Parts per million,2020-09-13 21:00:00
+Carbon monoxide,2020-09-13,22:00,2020-09-14,06:00,1.7,Parts per million,2020-09-13 22:00:00
+Carbon monoxide,2020-09-13,23:00,2020-09-14,07:00,1.7,Parts per million,2020-09-13 23:00:00
+Carbon monoxide,2020-09-14,00:00,2020-09-14,08:00,1.7,Parts per million,2020-09-14 00:00:00
+Carbon monoxide,2020-09-14,01:00,2020-09-14,09:00,1.6,Parts per million,2020-09-14 01:00:00
+Carbon monoxide,2020-09-14,02:00,2020-09-14,10:00,,Parts per million,2020-09-14 02:00:00
+Carbon monoxide,2020-09-14,03:00,2020-09-14,11:00,,Parts per million,2020-09-14 03:00:00
+Carbon monoxide,2020-09-14,04:00,2020-09-14,12:00,1.6,Parts per million,2020-09-14 04:00:00
+Carbon monoxide,2020-09-14,05:00,2020-09-14,13:00,1.6,Parts per million,2020-09-14 05:00:00
+Carbon monoxide,2020-09-14,06:00,2020-09-14,14:00,1.6,Parts per million,2020-09-14 06:00:00
+Carbon monoxide,2020-09-14,07:00,2020-09-14,15:00,1.6,Parts per million,2020-09-14 07:00:00
+Carbon monoxide,2020-09-14,08:00,2020-09-14,16:00,1.6,Parts per million,2020-09-14 08:00:00
+Carbon monoxide,2020-09-14,09:00,2020-09-14,17:00,1.6,Parts per million,2020-09-14 09:00:00
+Carbon monoxide,2020-09-14,10:00,2020-09-14,18:00,1.6,Parts per million,2020-09-14 10:00:00
+Carbon monoxide,2020-09-14,11:00,2020-09-14,19:00,1.5,Parts per million,2020-09-14 11:00:00
+Carbon monoxide,2020-09-14,12:00,2020-09-14,20:00,1.5,Parts per million,2020-09-14 12:00:00
+Carbon monoxide,2020-09-14,13:00,2020-09-14,21:00,1.5,Parts per million,2020-09-14 13:00:00
+Carbon monoxide,2020-09-14,14:00,2020-09-14,22:00,1.5,Parts per million,2020-09-14 14:00:00
+Carbon monoxide,2020-09-14,15:00,2020-09-14,23:00,1.5,Parts per million,2020-09-14 15:00:00
+Carbon monoxide,2020-09-14,16:00,2020-09-15,00:00,1.5,Parts per million,2020-09-14 16:00:00
+Carbon monoxide,2020-09-14,17:00,2020-09-15,01:00,1.4,Parts per million,2020-09-14 17:00:00
+Carbon monoxide,2020-09-14,18:00,2020-09-15,02:00,1.3,Parts per million,2020-09-14 18:00:00
+Carbon monoxide,2020-09-14,19:00,2020-09-15,03:00,1.2,Parts per million,2020-09-14 19:00:00
+Carbon monoxide,2020-09-14,20:00,2020-09-15,04:00,1.0,Parts per million,2020-09-14 20:00:00
+Carbon monoxide,2020-09-14,21:00,2020-09-15,05:00,1.2,Parts per million,2020-09-14 21:00:00
+Carbon monoxide,2020-09-14,22:00,2020-09-15,06:00,1.2,Parts per million,2020-09-14 22:00:00
+Carbon monoxide,2020-09-14,23:00,2020-09-15,07:00,1.2,Parts per million,2020-09-14 23:00:00
+Carbon monoxide,2020-09-15,00:00,2020-09-15,08:00,1.1,Parts per million,2020-09-15 00:00:00
+Carbon monoxide,2020-09-15,01:00,2020-09-15,09:00,1.0,Parts per million,2020-09-15 01:00:00
+Carbon monoxide,2020-09-15,02:00,2020-09-15,10:00,,Parts per million,2020-09-15 02:00:00
+Carbon monoxide,2020-09-15,03:00,2020-09-15,11:00,0.9,Parts per million,2020-09-15 03:00:00
+Carbon monoxide,2020-09-15,04:00,2020-09-15,12:00,1.1,Parts per million,2020-09-15 04:00:00
+Carbon monoxide,2020-09-15,05:00,2020-09-15,13:00,1.3,Parts per million,2020-09-15 05:00:00
+Carbon monoxide,2020-09-15,06:00,2020-09-15,14:00,1.5,Parts per million,2020-09-15 06:00:00
+Carbon monoxide,2020-09-15,07:00,2020-09-15,15:00,1.3,Parts per million,2020-09-15 07:00:00
+Carbon monoxide,2020-09-15,08:00,2020-09-15,16:00,0.8,Parts per million,2020-09-15 08:00:00
+Carbon monoxide,2020-09-15,09:00,2020-09-15,17:00,0.8,Parts per million,2020-09-15 09:00:00
+Carbon monoxide,2020-09-15,10:00,2020-09-15,18:00,0.7,Parts per million,2020-09-15 10:00:00
+Carbon monoxide,2020-09-15,11:00,2020-09-15,19:00,0.7,Parts per million,2020-09-15 11:00:00
+Carbon monoxide,2020-09-15,12:00,2020-09-15,20:00,0.7,Parts per million,2020-09-15 12:00:00
+Carbon monoxide,2020-09-15,13:00,2020-09-15,21:00,0.7,Parts per million,2020-09-15 13:00:00
+Carbon monoxide,2020-09-15,14:00,2020-09-15,22:00,0.7,Parts per million,2020-09-15 14:00:00
+Carbon monoxide,2020-09-15,15:00,2020-09-15,23:00,0.6,Parts per million,2020-09-15 15:00:00
+Carbon monoxide,2020-09-15,16:00,2020-09-16,00:00,0.6,Parts per million,2020-09-15 16:00:00
+Carbon monoxide,2020-09-15,17:00,2020-09-16,01:00,0.6,Parts per million,2020-09-15 17:00:00
+Carbon monoxide,2020-09-15,18:00,2020-09-16,02:00,0.5,Parts per million,2020-09-15 18:00:00
+Carbon monoxide,2020-09-15,19:00,2020-09-16,03:00,0.5,Parts per million,2020-09-15 19:00:00
+Carbon monoxide,2020-09-15,20:00,2020-09-16,04:00,0.6,Parts per million,2020-09-15 20:00:00
+Carbon monoxide,2020-09-15,21:00,2020-09-16,05:00,0.5,Parts per million,2020-09-15 21:00:00
+Carbon monoxide,2020-09-15,22:00,2020-09-16,06:00,0.5,Parts per million,2020-09-15 22:00:00
+Carbon monoxide,2020-09-15,23:00,2020-09-16,07:00,0.5,Parts per million,2020-09-15 23:00:00
+Carbon monoxide,2020-09-16,00:00,2020-09-16,08:00,0.6,Parts per million,2020-09-16 00:00:00
+Carbon monoxide,2020-09-16,01:00,2020-09-16,09:00,0.6,Parts per million,2020-09-16 01:00:00
+Carbon monoxide,2020-09-16,02:00,2020-09-16,10:00,,Parts per million,2020-09-16 02:00:00
+Carbon monoxide,2020-09-16,03:00,2020-09-16,11:00,,Parts per million,2020-09-16 03:00:00
+Carbon monoxide,2020-09-16,04:00,2020-09-16,12:00,0.6,Parts per million,2020-09-16 04:00:00
+Carbon monoxide,2020-09-16,05:00,2020-09-16,13:00,0.6,Parts per million,2020-09-16 05:00:00
+Carbon monoxide,2020-09-16,06:00,2020-09-16,14:00,0.6,Parts per million,2020-09-16 06:00:00
+Carbon monoxide,2020-09-16,07:00,2020-09-16,15:00,0.6,Parts per million,2020-09-16 07:00:00
+Carbon monoxide,2020-09-16,08:00,2020-09-16,16:00,0.6,Parts per million,2020-09-16 08:00:00
+Carbon monoxide,2020-09-16,09:00,2020-09-16,17:00,0.6,Parts per million,2020-09-16 09:00:00
+Carbon monoxide,2020-09-16,10:00,2020-09-16,18:00,0.3,Parts per million,2020-09-16 10:00:00
+Carbon monoxide,2020-09-16,11:00,2020-09-16,19:00,0.4,Parts per million,2020-09-16 11:00:00
+Carbon monoxide,2020-09-16,12:00,2020-09-16,20:00,0.4,Parts per million,2020-09-16 12:00:00
+Carbon monoxide,2020-09-16,13:00,2020-09-16,21:00,0.4,Parts per million,2020-09-16 13:00:00
+Carbon monoxide,2020-09-16,14:00,2020-09-16,22:00,0.4,Parts per million,2020-09-16 14:00:00
+Carbon monoxide,2020-09-16,15:00,2020-09-16,23:00,0.4,Parts per million,2020-09-16 15:00:00
+Carbon monoxide,2020-09-16,16:00,2020-09-17,00:00,0.4,Parts per million,2020-09-16 16:00:00
+Carbon monoxide,2020-09-16,17:00,2020-09-17,01:00,0.5,Parts per million,2020-09-16 17:00:00
+Carbon monoxide,2020-09-16,18:00,2020-09-17,02:00,0.5,Parts per million,2020-09-16 18:00:00
+Carbon monoxide,2020-09-16,19:00,2020-09-17,03:00,0.5,Parts per million,2020-09-16 19:00:00
+Carbon monoxide,2020-09-16,20:00,2020-09-17,04:00,0.5,Parts per million,2020-09-16 20:00:00
+Carbon monoxide,2020-09-16,21:00,2020-09-17,05:00,0.4,Parts per million,2020-09-16 21:00:00
+Carbon monoxide,2020-09-16,22:00,2020-09-17,06:00,0.3,Parts per million,2020-09-16 22:00:00
+Carbon monoxide,2020-09-16,23:00,2020-09-17,07:00,0.3,Parts per million,2020-09-16 23:00:00
+Carbon monoxide,2020-09-17,00:00,2020-09-17,08:00,0.3,Parts per million,2020-09-17 00:00:00
+Carbon monoxide,2020-09-17,01:00,2020-09-17,09:00,0.3,Parts per million,2020-09-17 01:00:00
+Carbon monoxide,2020-09-17,02:00,2020-09-17,10:00,,Parts per million,2020-09-17 02:00:00
+Carbon monoxide,2020-09-17,03:00,2020-09-17,11:00,0.3,Parts per million,2020-09-17 03:00:00
+Carbon monoxide,2020-09-17,04:00,2020-09-17,12:00,0.3,Parts per million,2020-09-17 04:00:00
+Carbon monoxide,2020-09-17,05:00,2020-09-17,13:00,0.4,Parts per million,2020-09-17 05:00:00
+Carbon monoxide,2020-09-17,06:00,2020-09-17,14:00,0.3,Parts per million,2020-09-17 06:00:00
+Carbon monoxide,2020-09-17,07:00,2020-09-17,15:00,0.4,Parts per million,2020-09-17 07:00:00
+Carbon monoxide,2020-09-17,08:00,2020-09-17,16:00,0.5,Parts per million,2020-09-17 08:00:00
+Carbon monoxide,2020-09-17,09:00,2020-09-17,17:00,0.4,Parts per million,2020-09-17 09:00:00
+Carbon monoxide,2020-09-17,10:00,2020-09-17,18:00,0.4,Parts per million,2020-09-17 10:00:00
+Carbon monoxide,2020-09-17,11:00,2020-09-17,19:00,0.4,Parts per million,2020-09-17 11:00:00
+Carbon monoxide,2020-09-17,12:00,2020-09-17,20:00,0.4,Parts per million,2020-09-17 12:00:00
+Carbon monoxide,2020-09-17,13:00,2020-09-17,21:00,0.4,Parts per million,2020-09-17 13:00:00
+Carbon monoxide,2020-09-17,14:00,2020-09-17,22:00,0.4,Parts per million,2020-09-17 14:00:00
+Carbon monoxide,2020-09-17,15:00,2020-09-17,23:00,0.4,Parts per million,2020-09-17 15:00:00
+Carbon monoxide,2020-09-17,16:00,2020-09-18,00:00,0.4,Parts per million,2020-09-17 16:00:00
+Carbon monoxide,2020-09-17,17:00,2020-09-18,01:00,0.5,Parts per million,2020-09-17 17:00:00
+Carbon monoxide,2020-09-17,18:00,2020-09-18,02:00,0.5,Parts per million,2020-09-17 18:00:00
+Carbon monoxide,2020-09-17,19:00,2020-09-18,03:00,0.5,Parts per million,2020-09-17 19:00:00
+Carbon monoxide,2020-09-17,20:00,2020-09-18,04:00,0.5,Parts per million,2020-09-17 20:00:00
+Carbon monoxide,2020-09-17,21:00,2020-09-18,05:00,0.4,Parts per million,2020-09-17 21:00:00
+Carbon monoxide,2020-09-17,22:00,2020-09-18,06:00,0.4,Parts per million,2020-09-17 22:00:00
+Carbon monoxide,2020-09-17,23:00,2020-09-18,07:00,0.4,Parts per million,2020-09-17 23:00:00
+Ozone,2020-09-03,00:00,2020-09-03,08:00,0.023,Parts per million,2020-09-03 00:00:00
+Ozone,2020-09-03,01:00,2020-09-03,09:00,0.025,Parts per million,2020-09-03 01:00:00
+Ozone,2020-09-03,02:00,2020-09-03,10:00,,Parts per million,2020-09-03 02:00:00
+Ozone,2020-09-03,03:00,2020-09-03,11:00,0.026,Parts per million,2020-09-03 03:00:00
+Ozone,2020-09-03,04:00,2020-09-03,12:00,0.021,Parts per million,2020-09-03 04:00:00
+Ozone,2020-09-03,05:00,2020-09-03,13:00,0.02,Parts per million,2020-09-03 05:00:00
+Ozone,2020-09-03,06:00,2020-09-03,14:00,0.021,Parts per million,2020-09-03 06:00:00
+Ozone,2020-09-03,07:00,2020-09-03,15:00,0.018,Parts per million,2020-09-03 07:00:00
+Ozone,2020-09-03,08:00,2020-09-03,16:00,0.018,Parts per million,2020-09-03 08:00:00
+Ozone,2020-09-03,09:00,2020-09-03,17:00,0.018,Parts per million,2020-09-03 09:00:00
+Ozone,2020-09-03,10:00,2020-09-03,18:00,0.02,Parts per million,2020-09-03 10:00:00
+Ozone,2020-09-03,11:00,2020-09-03,19:00,0.033,Parts per million,2020-09-03 11:00:00
+Ozone,2020-09-03,12:00,2020-09-03,20:00,0.038,Parts per million,2020-09-03 12:00:00
+Ozone,2020-09-03,13:00,2020-09-03,21:00,0.036,Parts per million,2020-09-03 13:00:00
+Ozone,2020-09-03,14:00,2020-09-03,22:00,0.032,Parts per million,2020-09-03 14:00:00
+Ozone,2020-09-03,15:00,2020-09-03,23:00,0.032,Parts per million,2020-09-03 15:00:00
+Ozone,2020-09-03,16:00,2020-09-04,00:00,0.03,Parts per million,2020-09-03 16:00:00
+Ozone,2020-09-03,17:00,2020-09-04,01:00,0.029,Parts per million,2020-09-03 17:00:00
+Ozone,2020-09-03,18:00,2020-09-04,02:00,0.027,Parts per million,2020-09-03 18:00:00
+Ozone,2020-09-03,19:00,2020-09-04,03:00,0.026,Parts per million,2020-09-03 19:00:00
+Ozone,2020-09-03,20:00,2020-09-04,04:00,0.028,Parts per million,2020-09-03 20:00:00
+Ozone,2020-09-03,21:00,2020-09-04,05:00,0.025,Parts per million,2020-09-03 21:00:00
+Ozone,2020-09-03,22:00,2020-09-04,06:00,0.028,Parts per million,2020-09-03 22:00:00
+Ozone,2020-09-03,23:00,2020-09-04,07:00,0.028,Parts per million,2020-09-03 23:00:00
+Ozone,2020-09-04,00:00,2020-09-04,08:00,0.026,Parts per million,2020-09-04 00:00:00
+Ozone,2020-09-04,01:00,2020-09-04,09:00,0.026,Parts per million,2020-09-04 01:00:00
+Ozone,2020-09-04,02:00,2020-09-04,10:00,,Parts per million,2020-09-04 02:00:00
+Ozone,2020-09-04,03:00,2020-09-04,11:00,,Parts per million,2020-09-04 03:00:00
+Ozone,2020-09-04,04:00,2020-09-04,12:00,,Parts per million,2020-09-04 04:00:00
+Ozone,2020-09-04,05:00,2020-09-04,13:00,,Parts per million,2020-09-04 05:00:00
+Ozone,2020-09-04,06:00,2020-09-04,14:00,,Parts per million,2020-09-04 06:00:00
+Ozone,2020-09-04,07:00,2020-09-04,15:00,0.02,Parts per million,2020-09-04 07:00:00
+Ozone,2020-09-04,08:00,2020-09-04,16:00,0.022,Parts per million,2020-09-04 08:00:00
+Ozone,2020-09-04,09:00,2020-09-04,17:00,0.026,Parts per million,2020-09-04 09:00:00
+Ozone,2020-09-04,10:00,2020-09-04,18:00,0.028,Parts per million,2020-09-04 10:00:00
+Ozone,2020-09-04,11:00,2020-09-04,19:00,0.031,Parts per million,2020-09-04 11:00:00
+Ozone,2020-09-04,12:00,2020-09-04,20:00,0.034,Parts per million,2020-09-04 12:00:00
+Ozone,2020-09-04,13:00,2020-09-04,21:00,0.032,Parts per million,2020-09-04 13:00:00
+Ozone,2020-09-04,14:00,2020-09-04,22:00,0.032,Parts per million,2020-09-04 14:00:00
+Ozone,2020-09-04,15:00,2020-09-04,23:00,0.034,Parts per million,2020-09-04 15:00:00
+Ozone,2020-09-04,16:00,2020-09-05,00:00,0.035,Parts per million,2020-09-04 16:00:00
+Ozone,2020-09-04,17:00,2020-09-05,01:00,0.032,Parts per million,2020-09-04 17:00:00
+Ozone,2020-09-04,18:00,2020-09-05,02:00,0.027,Parts per million,2020-09-04 18:00:00
+Ozone,2020-09-04,19:00,2020-09-05,03:00,0.025,Parts per million,2020-09-04 19:00:00
+Ozone,2020-09-04,20:00,2020-09-05,04:00,0.026,Parts per million,2020-09-04 20:00:00
+Ozone,2020-09-04,21:00,2020-09-05,05:00,0.026,Parts per million,2020-09-04 21:00:00
+Ozone,2020-09-04,22:00,2020-09-05,06:00,0.025,Parts per million,2020-09-04 22:00:00
+Ozone,2020-09-04,23:00,2020-09-05,07:00,0.023,Parts per million,2020-09-04 23:00:00
+Ozone,2020-09-05,00:00,2020-09-05,08:00,0.027,Parts per million,2020-09-05 00:00:00
+Ozone,2020-09-05,01:00,2020-09-05,09:00,0.029,Parts per million,2020-09-05 01:00:00
+Ozone,2020-09-05,02:00,2020-09-05,10:00,,Parts per million,2020-09-05 02:00:00
+Ozone,2020-09-05,03:00,2020-09-05,11:00,0.019,Parts per million,2020-09-05 03:00:00
+Ozone,2020-09-05,04:00,2020-09-05,12:00,0.011,Parts per million,2020-09-05 04:00:00
+Ozone,2020-09-05,05:00,2020-09-05,13:00,0.008,Parts per million,2020-09-05 05:00:00
+Ozone,2020-09-05,06:00,2020-09-05,14:00,0.006,Parts per million,2020-09-05 06:00:00
+Ozone,2020-09-05,07:00,2020-09-05,15:00,0.011,Parts per million,2020-09-05 07:00:00
+Ozone,2020-09-05,08:00,2020-09-05,16:00,0.018,Parts per million,2020-09-05 08:00:00
+Ozone,2020-09-05,09:00,2020-09-05,17:00,0.026,Parts per million,2020-09-05 09:00:00
+Ozone,2020-09-05,10:00,2020-09-05,18:00,0.037,Parts per million,2020-09-05 10:00:00
+Ozone,2020-09-05,11:00,2020-09-05,19:00,0.041,Parts per million,2020-09-05 11:00:00
+Ozone,2020-09-05,12:00,2020-09-05,20:00,0.056,Parts per million,2020-09-05 12:00:00
+Ozone,2020-09-05,13:00,2020-09-05,21:00,0.074,Parts per million,2020-09-05 13:00:00
+Ozone,2020-09-05,14:00,2020-09-05,22:00,0.073,Parts per million,2020-09-05 14:00:00
+Ozone,2020-09-05,15:00,2020-09-05,23:00,0.067,Parts per million,2020-09-05 15:00:00
+Ozone,2020-09-05,16:00,2020-09-06,00:00,0.044,Parts per million,2020-09-05 16:00:00
+Ozone,2020-09-05,17:00,2020-09-06,01:00,0.032,Parts per million,2020-09-05 17:00:00
+Ozone,2020-09-05,18:00,2020-09-06,02:00,0.023,Parts per million,2020-09-05 18:00:00
+Ozone,2020-09-05,19:00,2020-09-06,03:00,0.019,Parts per million,2020-09-05 19:00:00
+Ozone,2020-09-05,20:00,2020-09-06,04:00,0.008,Parts per million,2020-09-05 20:00:00
+Ozone,2020-09-05,21:00,2020-09-06,05:00,0.014,Parts per million,2020-09-05 21:00:00
+Ozone,2020-09-05,22:00,2020-09-06,06:00,0.02,Parts per million,2020-09-05 22:00:00
+Ozone,2020-09-05,23:00,2020-09-06,07:00,0.005,Parts per million,2020-09-05 23:00:00
+Ozone,2020-09-06,00:00,2020-09-06,08:00,0.007,Parts per million,2020-09-06 00:00:00
+Ozone,2020-09-06,01:00,2020-09-06,09:00,0.012,Parts per million,2020-09-06 01:00:00
+Ozone,2020-09-06,02:00,2020-09-06,10:00,,Parts per million,2020-09-06 02:00:00
+Ozone,2020-09-06,03:00,2020-09-06,11:00,,Parts per million,2020-09-06 03:00:00
+Ozone,2020-09-06,04:00,2020-09-06,12:00,0.021,Parts per million,2020-09-06 04:00:00
+Ozone,2020-09-06,05:00,2020-09-06,13:00,0.021,Parts per million,2020-09-06 05:00:00
+Ozone,2020-09-06,06:00,2020-09-06,14:00,0.014,Parts per million,2020-09-06 06:00:00
+Ozone,2020-09-06,07:00,2020-09-06,15:00,0.015,Parts per million,2020-09-06 07:00:00
+Ozone,2020-09-06,08:00,2020-09-06,16:00,0.024,Parts per million,2020-09-06 08:00:00
+Ozone,2020-09-06,09:00,2020-09-06,17:00,0.041,Parts per million,2020-09-06 09:00:00
+Ozone,2020-09-06,10:00,2020-09-06,18:00,0.056,Parts per million,2020-09-06 10:00:00
+Ozone,2020-09-06,11:00,2020-09-06,19:00,0.059,Parts per million,2020-09-06 11:00:00
+Ozone,2020-09-06,12:00,2020-09-06,20:00,0.075,Parts per million,2020-09-06 12:00:00
+Ozone,2020-09-06,13:00,2020-09-06,21:00,0.07,Parts per million,2020-09-06 13:00:00
+Ozone,2020-09-06,14:00,2020-09-06,22:00,0.081,Parts per million,2020-09-06 14:00:00
+Ozone,2020-09-06,15:00,2020-09-06,23:00,0.072,Parts per million,2020-09-06 15:00:00
+Ozone,2020-09-06,16:00,2020-09-07,00:00,0.058,Parts per million,2020-09-06 16:00:00
+Ozone,2020-09-06,17:00,2020-09-07,01:00,0.034,Parts per million,2020-09-06 17:00:00
+Ozone,2020-09-06,18:00,2020-09-07,02:00,0.017,Parts per million,2020-09-06 18:00:00
+Ozone,2020-09-06,19:00,2020-09-07,03:00,0.004,Parts per million,2020-09-06 19:00:00
+Ozone,2020-09-06,20:00,2020-09-07,04:00,0.003,Parts per million,2020-09-06 20:00:00
+Ozone,2020-09-06,21:00,2020-09-07,05:00,0.002,Parts per million,2020-09-06 21:00:00
+Ozone,2020-09-06,22:00,2020-09-07,06:00,0.01,Parts per million,2020-09-06 22:00:00
+Ozone,2020-09-06,23:00,2020-09-07,07:00,0.019,Parts per million,2020-09-06 23:00:00
+Ozone,2020-09-07,00:00,2020-09-07,08:00,0.023,Parts per million,2020-09-07 00:00:00
+Ozone,2020-09-07,01:00,2020-09-07,09:00,0.02,Parts per million,2020-09-07 01:00:00
+Ozone,2020-09-07,02:00,2020-09-07,10:00,,Parts per million,2020-09-07 02:00:00
+Ozone,2020-09-07,03:00,2020-09-07,11:00,0.013,Parts per million,2020-09-07 03:00:00
+Ozone,2020-09-07,04:00,2020-09-07,12:00,0.008,Parts per million,2020-09-07 04:00:00
+Ozone,2020-09-07,05:00,2020-09-07,13:00,0.015,Parts per million,2020-09-07 05:00:00
+Ozone,2020-09-07,06:00,2020-09-07,14:00,0.013,Parts per million,2020-09-07 06:00:00
+Ozone,2020-09-07,07:00,2020-09-07,15:00,0.011,Parts per million,2020-09-07 07:00:00
+Ozone,2020-09-07,08:00,2020-09-07,16:00,0.016,Parts per million,2020-09-07 08:00:00
+Ozone,2020-09-07,09:00,2020-09-07,17:00,0.025,Parts per million,2020-09-07 09:00:00
+Ozone,2020-09-07,10:00,2020-09-07,18:00,0.041,Parts per million,2020-09-07 10:00:00
+Ozone,2020-09-07,11:00,2020-09-07,19:00,0.043,Parts per million,2020-09-07 11:00:00
+Ozone,2020-09-07,12:00,2020-09-07,20:00,0.048,Parts per million,2020-09-07 12:00:00
+Ozone,2020-09-07,13:00,2020-09-07,21:00,0.043,Parts per million,2020-09-07 13:00:00
+Ozone,2020-09-07,14:00,2020-09-07,22:00,0.035,Parts per million,2020-09-07 14:00:00
+Ozone,2020-09-07,15:00,2020-09-07,23:00,0.035,Parts per million,2020-09-07 15:00:00
+Ozone,2020-09-07,16:00,2020-09-08,00:00,0.032,Parts per million,2020-09-07 16:00:00
+Ozone,2020-09-07,17:00,2020-09-08,01:00,0.029,Parts per million,2020-09-07 17:00:00
+Ozone,2020-09-07,18:00,2020-09-08,02:00,0.025,Parts per million,2020-09-07 18:00:00
+Ozone,2020-09-07,19:00,2020-09-08,03:00,0.022,Parts per million,2020-09-07 19:00:00
+Ozone,2020-09-07,20:00,2020-09-08,04:00,0.023,Parts per million,2020-09-07 20:00:00
+Ozone,2020-09-07,21:00,2020-09-08,05:00,0.021,Parts per million,2020-09-07 21:00:00
+Ozone,2020-09-07,22:00,2020-09-08,06:00,0.023,Parts per million,2020-09-07 22:00:00
+Ozone,2020-09-07,23:00,2020-09-08,07:00,0.023,Parts per million,2020-09-07 23:00:00
+Ozone,2020-09-08,00:00,2020-09-08,08:00,0.022,Parts per million,2020-09-08 00:00:00
+Ozone,2020-09-08,01:00,2020-09-08,09:00,0.022,Parts per million,2020-09-08 01:00:00
+Ozone,2020-09-08,02:00,2020-09-08,10:00,,Parts per million,2020-09-08 02:00:00
+Ozone,2020-09-08,03:00,2020-09-08,11:00,0.019,Parts per million,2020-09-08 03:00:00
+Ozone,2020-09-08,04:00,2020-09-08,12:00,0.016,Parts per million,2020-09-08 04:00:00
+Ozone,2020-09-08,05:00,2020-09-08,13:00,0.013,Parts per million,2020-09-08 05:00:00
+Ozone,2020-09-08,06:00,2020-09-08,14:00,0.015,Parts per million,2020-09-08 06:00:00
+Ozone,2020-09-08,07:00,2020-09-08,15:00,0.014,Parts per million,2020-09-08 07:00:00
+Ozone,2020-09-08,08:00,2020-09-08,16:00,0.012,Parts per million,2020-09-08 08:00:00
+Ozone,2020-09-08,09:00,2020-09-08,17:00,0.009,Parts per million,2020-09-08 09:00:00
+Ozone,2020-09-08,10:00,2020-09-08,18:00,0.009,Parts per million,2020-09-08 10:00:00
+Ozone,2020-09-08,11:00,2020-09-08,19:00,0.015,Parts per million,2020-09-08 11:00:00
+Ozone,2020-09-08,12:00,2020-09-08,20:00,0.039,Parts per million,2020-09-08 12:00:00
+Ozone,2020-09-08,13:00,2020-09-08,21:00,0.03,Parts per million,2020-09-08 13:00:00
+Ozone,2020-09-08,14:00,2020-09-08,22:00,0.025,Parts per million,2020-09-08 14:00:00
+Ozone,2020-09-08,15:00,2020-09-08,23:00,0.023,Parts per million,2020-09-08 15:00:00
+Ozone,2020-09-08,16:00,2020-09-09,00:00,0.023,Parts per million,2020-09-08 16:00:00
+Ozone,2020-09-08,17:00,2020-09-09,01:00,0.018,Parts per million,2020-09-08 17:00:00
+Ozone,2020-09-08,18:00,2020-09-09,02:00,0.02,Parts per million,2020-09-08 18:00:00
+Ozone,2020-09-08,19:00,2020-09-09,03:00,0.018,Parts per million,2020-09-08 19:00:00
+Ozone,2020-09-08,20:00,2020-09-09,04:00,0.018,Parts per million,2020-09-08 20:00:00
+Ozone,2020-09-08,21:00,2020-09-09,05:00,0.02,Parts per million,2020-09-08 21:00:00
+Ozone,2020-09-08,22:00,2020-09-09,06:00,0.021,Parts per million,2020-09-08 22:00:00
+Ozone,2020-09-08,23:00,2020-09-09,07:00,0.024,Parts per million,2020-09-08 23:00:00
+Ozone,2020-09-09,00:00,2020-09-09,08:00,0.023,Parts per million,2020-09-09 00:00:00
+Ozone,2020-09-09,01:00,2020-09-09,09:00,0.026,Parts per million,2020-09-09 01:00:00
+Ozone,2020-09-09,02:00,2020-09-09,10:00,,Parts per million,2020-09-09 02:00:00
+Ozone,2020-09-09,03:00,2020-09-09,11:00,0.024,Parts per million,2020-09-09 03:00:00
+Ozone,2020-09-09,04:00,2020-09-09,12:00,0.021,Parts per million,2020-09-09 04:00:00
+Ozone,2020-09-09,05:00,2020-09-09,13:00,0.018,Parts per million,2020-09-09 05:00:00
+Ozone,2020-09-09,06:00,2020-09-09,14:00,0.018,Parts per million,2020-09-09 06:00:00
+Ozone,2020-09-09,07:00,2020-09-09,15:00,0.021,Parts per million,2020-09-09 07:00:00
+Ozone,2020-09-09,08:00,2020-09-09,16:00,0.02,Parts per million,2020-09-09 08:00:00
+Ozone,2020-09-09,09:00,2020-09-09,17:00,0.02,Parts per million,2020-09-09 09:00:00
+Ozone,2020-09-09,10:00,2020-09-09,18:00,0.022,Parts per million,2020-09-09 10:00:00
+Ozone,2020-09-09,11:00,2020-09-09,19:00,0.024,Parts per million,2020-09-09 11:00:00
+Ozone,2020-09-09,12:00,2020-09-09,20:00,0.022,Parts per million,2020-09-09 12:00:00
+Ozone,2020-09-09,13:00,2020-09-09,21:00,0.023,Parts per million,2020-09-09 13:00:00
+Ozone,2020-09-09,14:00,2020-09-09,22:00,0.019,Parts per million,2020-09-09 14:00:00
+Ozone,2020-09-09,15:00,2020-09-09,23:00,0.018,Parts per million,2020-09-09 15:00:00
+Ozone,2020-09-09,16:00,2020-09-10,00:00,0.017,Parts per million,2020-09-09 16:00:00
+Ozone,2020-09-09,17:00,2020-09-10,01:00,0.023,Parts per million,2020-09-09 17:00:00
+Ozone,2020-09-09,18:00,2020-09-10,02:00,0.023,Parts per million,2020-09-09 18:00:00
+Ozone,2020-09-09,19:00,2020-09-10,03:00,0.025,Parts per million,2020-09-09 19:00:00
+Ozone,2020-09-09,20:00,2020-09-10,04:00,0.028,Parts per million,2020-09-09 20:00:00
+Ozone,2020-09-09,21:00,2020-09-10,05:00,0.029,Parts per million,2020-09-09 21:00:00
+Ozone,2020-09-09,22:00,2020-09-10,06:00,0.03,Parts per million,2020-09-09 22:00:00
+Ozone,2020-09-09,23:00,2020-09-10,07:00,0.029,Parts per million,2020-09-09 23:00:00
+Ozone,2020-09-10,00:00,2020-09-10,08:00,0.029,Parts per million,2020-09-10 00:00:00
+Ozone,2020-09-10,01:00,2020-09-10,09:00,0.029,Parts per million,2020-09-10 01:00:00
+Ozone,2020-09-10,02:00,2020-09-10,10:00,,Parts per million,2020-09-10 02:00:00
+Ozone,2020-09-10,03:00,2020-09-10,11:00,,Parts per million,2020-09-10 03:00:00
+Ozone,2020-09-10,04:00,2020-09-10,12:00,0.02,Parts per million,2020-09-10 04:00:00
+Ozone,2020-09-10,05:00,2020-09-10,13:00,0.018,Parts per million,2020-09-10 05:00:00
+Ozone,2020-09-10,06:00,2020-09-10,14:00,0.016,Parts per million,2020-09-10 06:00:00
+Ozone,2020-09-10,07:00,2020-09-10,15:00,0.015,Parts per million,2020-09-10 07:00:00
+Ozone,2020-09-10,08:00,2020-09-10,16:00,0.014,Parts per million,2020-09-10 08:00:00
+Ozone,2020-09-10,09:00,2020-09-10,17:00,0.011,Parts per million,2020-09-10 09:00:00
+Ozone,2020-09-10,10:00,2020-09-10,18:00,0.015,Parts per million,2020-09-10 10:00:00
+Ozone,2020-09-10,11:00,2020-09-10,19:00,0.015,Parts per million,2020-09-10 11:00:00
+Ozone,2020-09-10,12:00,2020-09-10,20:00,0.01,Parts per million,2020-09-10 12:00:00
+Ozone,2020-09-10,13:00,2020-09-10,21:00,0.017,Parts per million,2020-09-10 13:00:00
+Ozone,2020-09-10,14:00,2020-09-10,22:00,0.02,Parts per million,2020-09-10 14:00:00
+Ozone,2020-09-10,15:00,2020-09-10,23:00,0.027,Parts per million,2020-09-10 15:00:00
+Ozone,2020-09-10,16:00,2020-09-11,00:00,0.027,Parts per million,2020-09-10 16:00:00
+Ozone,2020-09-10,17:00,2020-09-11,01:00,0.025,Parts per million,2020-09-10 17:00:00
+Ozone,2020-09-10,18:00,2020-09-11,02:00,0.021,Parts per million,2020-09-10 18:00:00
+Ozone,2020-09-10,19:00,2020-09-11,03:00,0.023,Parts per million,2020-09-10 19:00:00
+Ozone,2020-09-10,20:00,2020-09-11,04:00,0.022,Parts per million,2020-09-10 20:00:00
+Ozone,2020-09-10,21:00,2020-09-11,05:00,0.023,Parts per million,2020-09-10 21:00:00
+Ozone,2020-09-10,22:00,2020-09-11,06:00,0.027,Parts per million,2020-09-10 22:00:00
+Ozone,2020-09-10,23:00,2020-09-11,07:00,0.024,Parts per million,2020-09-10 23:00:00
+Ozone,2020-09-11,00:00,2020-09-11,08:00,0.017,Parts per million,2020-09-11 00:00:00
+Ozone,2020-09-11,01:00,2020-09-11,09:00,0.015,Parts per million,2020-09-11 01:00:00
+Ozone,2020-09-11,02:00,2020-09-11,10:00,,Parts per million,2020-09-11 02:00:00
+Ozone,2020-09-11,03:00,2020-09-11,11:00,0.019,Parts per million,2020-09-11 03:00:00
+Ozone,2020-09-11,04:00,2020-09-11,12:00,0.011,Parts per million,2020-09-11 04:00:00
+Ozone,2020-09-11,05:00,2020-09-11,13:00,0.004,Parts per million,2020-09-11 05:00:00
+Ozone,2020-09-11,06:00,2020-09-11,14:00,0.003,Parts per million,2020-09-11 06:00:00
+Ozone,2020-09-11,07:00,2020-09-11,15:00,0.003,Parts per million,2020-09-11 07:00:00
+Ozone,2020-09-11,08:00,2020-09-11,16:00,0.014,Parts per million,2020-09-11 08:00:00
+Ozone,2020-09-11,09:00,2020-09-11,17:00,0.021,Parts per million,2020-09-11 09:00:00
+Ozone,2020-09-11,10:00,2020-09-11,18:00,0.026,Parts per million,2020-09-11 10:00:00
+Ozone,2020-09-11,11:00,2020-09-11,19:00,0.031,Parts per million,2020-09-11 11:00:00
+Ozone,2020-09-11,12:00,2020-09-11,20:00,0.039,Parts per million,2020-09-11 12:00:00
+Ozone,2020-09-11,13:00,2020-09-11,21:00,0.043,Parts per million,2020-09-11 13:00:00
+Ozone,2020-09-11,14:00,2020-09-11,22:00,0.042,Parts per million,2020-09-11 14:00:00
+Ozone,2020-09-11,15:00,2020-09-11,23:00,0.035,Parts per million,2020-09-11 15:00:00
+Ozone,2020-09-11,16:00,2020-09-12,00:00,0.031,Parts per million,2020-09-11 16:00:00
+Ozone,2020-09-11,17:00,2020-09-12,01:00,0.031,Parts per million,2020-09-11 17:00:00
+Ozone,2020-09-11,18:00,2020-09-12,02:00,0.03,Parts per million,2020-09-11 18:00:00
+Ozone,2020-09-11,19:00,2020-09-12,03:00,0.029,Parts per million,2020-09-11 19:00:00
+Ozone,2020-09-11,20:00,2020-09-12,04:00,0.029,Parts per million,2020-09-11 20:00:00
+Ozone,2020-09-11,21:00,2020-09-12,05:00,0.03,Parts per million,2020-09-11 21:00:00
+Ozone,2020-09-11,22:00,2020-09-12,06:00,0.031,Parts per million,2020-09-11 22:00:00
+Ozone,2020-09-11,23:00,2020-09-12,07:00,0.03,Parts per million,2020-09-11 23:00:00
+Ozone,2020-09-12,00:00,2020-09-12,08:00,0.029,Parts per million,2020-09-12 00:00:00
+Ozone,2020-09-12,01:00,2020-09-12,09:00,0.03,Parts per million,2020-09-12 01:00:00
+Ozone,2020-09-12,02:00,2020-09-12,10:00,,Parts per million,2020-09-12 02:00:00
+Ozone,2020-09-12,03:00,2020-09-12,11:00,,Parts per million,2020-09-12 03:00:00
+Ozone,2020-09-12,04:00,2020-09-12,12:00,0.025,Parts per million,2020-09-12 04:00:00
+Ozone,2020-09-12,05:00,2020-09-12,13:00,0.019,Parts per million,2020-09-12 05:00:00
+Ozone,2020-09-12,06:00,2020-09-12,14:00,0.019,Parts per million,2020-09-12 06:00:00
+Ozone,2020-09-12,07:00,2020-09-12,15:00,0.015,Parts per million,2020-09-12 07:00:00
+Ozone,2020-09-12,08:00,2020-09-12,16:00,0.013,Parts per million,2020-09-12 08:00:00
+Ozone,2020-09-12,09:00,2020-09-12,17:00,0.021,Parts per million,2020-09-12 09:00:00
+Ozone,2020-09-12,10:00,2020-09-12,18:00,0.031,Parts per million,2020-09-12 10:00:00
+Ozone,2020-09-12,11:00,2020-09-12,19:00,0.039,Parts per million,2020-09-12 11:00:00
+Ozone,2020-09-12,12:00,2020-09-12,20:00,0.055,Parts per million,2020-09-12 12:00:00
+Ozone,2020-09-12,13:00,2020-09-12,21:00,0.057,Parts per million,2020-09-12 13:00:00
+Ozone,2020-09-12,14:00,2020-09-12,22:00,0.056,Parts per million,2020-09-12 14:00:00
+Ozone,2020-09-12,15:00,2020-09-12,23:00,0.044,Parts per million,2020-09-12 15:00:00
+Ozone,2020-09-12,16:00,2020-09-13,00:00,0.037,Parts per million,2020-09-12 16:00:00
+Ozone,2020-09-12,17:00,2020-09-13,01:00,0.033,Parts per million,2020-09-12 17:00:00
+Ozone,2020-09-12,18:00,2020-09-13,02:00,0.027,Parts per million,2020-09-12 18:00:00
+Ozone,2020-09-12,19:00,2020-09-13,03:00,0.026,Parts per million,2020-09-12 19:00:00
+Ozone,2020-09-12,20:00,2020-09-13,04:00,0.026,Parts per million,2020-09-12 20:00:00
+Ozone,2020-09-12,21:00,2020-09-13,05:00,0.026,Parts per million,2020-09-12 21:00:00
+Ozone,2020-09-12,22:00,2020-09-13,06:00,0.028,Parts per million,2020-09-12 22:00:00
+Ozone,2020-09-12,23:00,2020-09-13,07:00,0.029,Parts per million,2020-09-12 23:00:00
+Ozone,2020-09-13,00:00,2020-09-13,08:00,0.029,Parts per million,2020-09-13 00:00:00
+Ozone,2020-09-13,01:00,2020-09-13,09:00,0.031,Parts per million,2020-09-13 01:00:00
+Ozone,2020-09-13,02:00,2020-09-13,10:00,,Parts per million,2020-09-13 02:00:00
+Ozone,2020-09-13,03:00,2020-09-13,11:00,0.031,Parts per million,2020-09-13 03:00:00
+Ozone,2020-09-13,04:00,2020-09-13,12:00,0.027,Parts per million,2020-09-13 04:00:00
+Ozone,2020-09-13,05:00,2020-09-13,13:00,0.028,Parts per million,2020-09-13 05:00:00
+Ozone,2020-09-13,06:00,2020-09-13,14:00,0.029,Parts per million,2020-09-13 06:00:00
+Ozone,2020-09-13,07:00,2020-09-13,15:00,0.029,Parts per million,2020-09-13 07:00:00
+Ozone,2020-09-13,08:00,2020-09-13,16:00,0.029,Parts per million,2020-09-13 08:00:00
+Ozone,2020-09-13,09:00,2020-09-13,17:00,0.032,Parts per million,2020-09-13 09:00:00
+Ozone,2020-09-13,10:00,2020-09-13,18:00,0.037,Parts per million,2020-09-13 10:00:00
+Ozone,2020-09-13,11:00,2020-09-13,19:00,0.043,Parts per million,2020-09-13 11:00:00
+Ozone,2020-09-13,12:00,2020-09-13,20:00,0.047,Parts per million,2020-09-13 12:00:00
+Ozone,2020-09-13,13:00,2020-09-13,21:00,0.046,Parts per million,2020-09-13 13:00:00
+Ozone,2020-09-13,14:00,2020-09-13,22:00,0.045,Parts per million,2020-09-13 14:00:00
+Ozone,2020-09-13,15:00,2020-09-13,23:00,0.045,Parts per million,2020-09-13 15:00:00
+Ozone,2020-09-13,16:00,2020-09-14,00:00,0.042,Parts per million,2020-09-13 16:00:00
+Ozone,2020-09-13,17:00,2020-09-14,01:00,0.036,Parts per million,2020-09-13 17:00:00
+Ozone,2020-09-13,18:00,2020-09-14,02:00,0.03,Parts per million,2020-09-13 18:00:00
+Ozone,2020-09-13,19:00,2020-09-14,03:00,0.031,Parts per million,2020-09-13 19:00:00
+Ozone,2020-09-13,20:00,2020-09-14,04:00,0.03,Parts per million,2020-09-13 20:00:00
+Ozone,2020-09-13,21:00,2020-09-14,05:00,0.031,Parts per million,2020-09-13 21:00:00
+Ozone,2020-09-13,22:00,2020-09-14,06:00,0.031,Parts per million,2020-09-13 22:00:00
+Ozone,2020-09-13,23:00,2020-09-14,07:00,0.033,Parts per million,2020-09-13 23:00:00
+Ozone,2020-09-14,00:00,2020-09-14,08:00,0.035,Parts per million,2020-09-14 00:00:00
+Ozone,2020-09-14,01:00,2020-09-14,09:00,0.036,Parts per million,2020-09-14 01:00:00
+Ozone,2020-09-14,02:00,2020-09-14,10:00,,Parts per million,2020-09-14 02:00:00
+Ozone,2020-09-14,03:00,2020-09-14,11:00,,Parts per million,2020-09-14 03:00:00
+Ozone,2020-09-14,04:00,2020-09-14,12:00,0.029,Parts per million,2020-09-14 04:00:00
+Ozone,2020-09-14,05:00,2020-09-14,13:00,0.028,Parts per million,2020-09-14 05:00:00
+Ozone,2020-09-14,06:00,2020-09-14,14:00,0.027,Parts per million,2020-09-14 06:00:00
+Ozone,2020-09-14,07:00,2020-09-14,15:00,0.033,Parts per million,2020-09-14 07:00:00
+Ozone,2020-09-14,08:00,2020-09-14,16:00,0.033,Parts per million,2020-09-14 08:00:00
+Ozone,2020-09-14,09:00,2020-09-14,17:00,0.037,Parts per million,2020-09-14 09:00:00
+Ozone,2020-09-14,10:00,2020-09-14,18:00,0.041,Parts per million,2020-09-14 10:00:00
+Ozone,2020-09-14,11:00,2020-09-14,19:00,0.046,Parts per million,2020-09-14 11:00:00
+Ozone,2020-09-14,12:00,2020-09-14,20:00,0.05,Parts per million,2020-09-14 12:00:00
+Ozone,2020-09-14,13:00,2020-09-14,21:00,0.052,Parts per million,2020-09-14 13:00:00
+Ozone,2020-09-14,14:00,2020-09-14,22:00,0.049,Parts per million,2020-09-14 14:00:00
+Ozone,2020-09-14,15:00,2020-09-14,23:00,0.046,Parts per million,2020-09-14 15:00:00
+Ozone,2020-09-14,16:00,2020-09-15,00:00,0.044,Parts per million,2020-09-14 16:00:00
+Ozone,2020-09-14,17:00,2020-09-15,01:00,0.036,Parts per million,2020-09-14 17:00:00
+Ozone,2020-09-14,18:00,2020-09-15,02:00,0.031,Parts per million,2020-09-14 18:00:00
+Ozone,2020-09-14,19:00,2020-09-15,03:00,0.029,Parts per million,2020-09-14 19:00:00
+Ozone,2020-09-14,20:00,2020-09-15,04:00,0.026,Parts per million,2020-09-14 20:00:00
+Ozone,2020-09-14,21:00,2020-09-15,05:00,0.026,Parts per million,2020-09-14 21:00:00
+Ozone,2020-09-14,22:00,2020-09-15,06:00,0.026,Parts per million,2020-09-14 22:00:00
+Ozone,2020-09-14,23:00,2020-09-15,07:00,0.027,Parts per million,2020-09-14 23:00:00
+Ozone,2020-09-15,00:00,2020-09-15,08:00,0.027,Parts per million,2020-09-15 00:00:00
+Ozone,2020-09-15,01:00,2020-09-15,09:00,0.024,Parts per million,2020-09-15 01:00:00
+Ozone,2020-09-15,02:00,2020-09-15,10:00,,Parts per million,2020-09-15 02:00:00
+Ozone,2020-09-15,03:00,2020-09-15,11:00,0.015,Parts per million,2020-09-15 03:00:00
+Ozone,2020-09-15,04:00,2020-09-15,12:00,0.006,Parts per million,2020-09-15 04:00:00
+Ozone,2020-09-15,05:00,2020-09-15,13:00,0.002,Parts per million,2020-09-15 05:00:00
+Ozone,2020-09-15,06:00,2020-09-15,14:00,0.002,Parts per million,2020-09-15 06:00:00
+Ozone,2020-09-15,07:00,2020-09-15,15:00,0.005,Parts per million,2020-09-15 07:00:00
+Ozone,2020-09-15,08:00,2020-09-15,16:00,0.013,Parts per million,2020-09-15 08:00:00
+Ozone,2020-09-15,09:00,2020-09-15,17:00,0.015,Parts per million,2020-09-15 09:00:00
+Ozone,2020-09-15,10:00,2020-09-15,18:00,0.021,Parts per million,2020-09-15 10:00:00
+Ozone,2020-09-15,11:00,2020-09-15,19:00,0.025,Parts per million,2020-09-15 11:00:00
+Ozone,2020-09-15,12:00,2020-09-15,20:00,0.026,Parts per million,2020-09-15 12:00:00
+Ozone,2020-09-15,13:00,2020-09-15,21:00,0.029,Parts per million,2020-09-15 13:00:00
+Ozone,2020-09-15,14:00,2020-09-15,22:00,0.029,Parts per million,2020-09-15 14:00:00
+Ozone,2020-09-15,15:00,2020-09-15,23:00,0.026,Parts per million,2020-09-15 15:00:00
+Ozone,2020-09-15,16:00,2020-09-16,00:00,0.016,Parts per million,2020-09-15 16:00:00
+Ozone,2020-09-15,17:00,2020-09-16,01:00,0.01,Parts per million,2020-09-15 17:00:00
+Ozone,2020-09-15,18:00,2020-09-16,02:00,0.011,Parts per million,2020-09-15 18:00:00
+Ozone,2020-09-15,19:00,2020-09-16,03:00,0.008,Parts per million,2020-09-15 19:00:00
+Ozone,2020-09-15,20:00,2020-09-16,04:00,0.008,Parts per million,2020-09-15 20:00:00
+Ozone,2020-09-15,21:00,2020-09-16,05:00,0.007,Parts per million,2020-09-15 21:00:00
+Ozone,2020-09-15,22:00,2020-09-16,06:00,0.008,Parts per million,2020-09-15 22:00:00
+Ozone,2020-09-15,23:00,2020-09-16,07:00,0.006,Parts per million,2020-09-15 23:00:00
+Ozone,2020-09-16,00:00,2020-09-16,08:00,0.004,Parts per million,2020-09-16 00:00:00
+Ozone,2020-09-16,01:00,2020-09-16,09:00,0.005,Parts per million,2020-09-16 01:00:00
+Ozone,2020-09-16,02:00,2020-09-16,10:00,,Parts per million,2020-09-16 02:00:00
+Ozone,2020-09-16,03:00,2020-09-16,11:00,,Parts per million,2020-09-16 03:00:00
+Ozone,2020-09-16,04:00,2020-09-16,12:00,0.004,Parts per million,2020-09-16 04:00:00
+Ozone,2020-09-16,05:00,2020-09-16,13:00,0.003,Parts per million,2020-09-16 05:00:00
+Ozone,2020-09-16,06:00,2020-09-16,14:00,0.003,Parts per million,2020-09-16 06:00:00
+Ozone,2020-09-16,07:00,2020-09-16,15:00,0.004,Parts per million,2020-09-16 07:00:00
+Ozone,2020-09-16,08:00,2020-09-16,16:00,0.005,Parts per million,2020-09-16 08:00:00
+Ozone,2020-09-16,09:00,2020-09-16,17:00,0.008,Parts per million,2020-09-16 09:00:00
+Ozone,2020-09-16,10:00,2020-09-16,18:00,0.012,Parts per million,2020-09-16 10:00:00
+Ozone,2020-09-16,11:00,2020-09-16,19:00,0.015,Parts per million,2020-09-16 11:00:00
+Ozone,2020-09-16,12:00,2020-09-16,20:00,0.019,Parts per million,2020-09-16 12:00:00
+Ozone,2020-09-16,13:00,2020-09-16,21:00,0.021,Parts per million,2020-09-16 13:00:00
+Ozone,2020-09-16,14:00,2020-09-16,22:00,0.023,Parts per million,2020-09-16 14:00:00
+Ozone,2020-09-16,15:00,2020-09-16,23:00,0.016,Parts per million,2020-09-16 15:00:00
+Ozone,2020-09-16,16:00,2020-09-17,00:00,0.01,Parts per million,2020-09-16 16:00:00
+Ozone,2020-09-16,17:00,2020-09-17,01:00,0.008,Parts per million,2020-09-16 17:00:00
+Ozone,2020-09-16,18:00,2020-09-17,02:00,0.005,Parts per million,2020-09-16 18:00:00
+Ozone,2020-09-16,19:00,2020-09-17,03:00,0.003,Parts per million,2020-09-16 19:00:00
+Ozone,2020-09-16,20:00,2020-09-17,04:00,0.002,Parts per million,2020-09-16 20:00:00
+Ozone,2020-09-16,21:00,2020-09-17,05:00,0.004,Parts per million,2020-09-16 21:00:00
+Ozone,2020-09-16,22:00,2020-09-17,06:00,0.006,Parts per million,2020-09-16 22:00:00
+Ozone,2020-09-16,23:00,2020-09-17,07:00,0.005,Parts per million,2020-09-16 23:00:00
+Ozone,2020-09-17,00:00,2020-09-17,08:00,0.002,Parts per million,2020-09-17 00:00:00
+Ozone,2020-09-17,01:00,2020-09-17,09:00,0.004,Parts per million,2020-09-17 01:00:00
+Ozone,2020-09-17,02:00,2020-09-17,10:00,,Parts per million,2020-09-17 02:00:00
+Ozone,2020-09-17,03:00,2020-09-17,11:00,0.006,Parts per million,2020-09-17 03:00:00
+Ozone,2020-09-17,04:00,2020-09-17,12:00,0.004,Parts per million,2020-09-17 04:00:00
+Ozone,2020-09-17,05:00,2020-09-17,13:00,0.003,Parts per million,2020-09-17 05:00:00
+Ozone,2020-09-17,06:00,2020-09-17,14:00,0.004,Parts per million,2020-09-17 06:00:00
+Ozone,2020-09-17,07:00,2020-09-17,15:00,0.004,Parts per million,2020-09-17 07:00:00
+Ozone,2020-09-17,08:00,2020-09-17,16:00,0.005,Parts per million,2020-09-17 08:00:00
+Ozone,2020-09-17,09:00,2020-09-17,17:00,0.007,Parts per million,2020-09-17 09:00:00
+Ozone,2020-09-17,10:00,2020-09-17,18:00,0.009,Parts per million,2020-09-17 10:00:00
+Ozone,2020-09-17,11:00,2020-09-17,19:00,0.012,Parts per million,2020-09-17 11:00:00
+Ozone,2020-09-17,12:00,2020-09-17,20:00,0.017,Parts per million,2020-09-17 12:00:00
+Ozone,2020-09-17,13:00,2020-09-17,21:00,0.022,Parts per million,2020-09-17 13:00:00
+Ozone,2020-09-17,14:00,2020-09-17,22:00,0.024,Parts per million,2020-09-17 14:00:00
+Ozone,2020-09-17,15:00,2020-09-17,23:00,0.022,Parts per million,2020-09-17 15:00:00
+Ozone,2020-09-17,16:00,2020-09-18,00:00,0.022,Parts per million,2020-09-17 16:00:00
+Ozone,2020-09-17,17:00,2020-09-18,01:00,0.017,Parts per million,2020-09-17 17:00:00
+Ozone,2020-09-17,18:00,2020-09-18,02:00,0.018,Parts per million,2020-09-17 18:00:00
+Ozone,2020-09-17,19:00,2020-09-18,03:00,0.017,Parts per million,2020-09-17 19:00:00
+Ozone,2020-09-17,20:00,2020-09-18,04:00,0.015,Parts per million,2020-09-17 20:00:00
+Ozone,2020-09-17,21:00,2020-09-18,05:00,0.02,Parts per million,2020-09-17 21:00:00
+Ozone,2020-09-17,22:00,2020-09-18,06:00,0.022,Parts per million,2020-09-17 22:00:00
+Ozone,2020-09-17,23:00,2020-09-18,07:00,0.02,Parts per million,2020-09-17 23:00:00
+PM2.5,2020-09-03,00:00,2020-09-03,08:00,36.0,Micrograms/cubic meter (LC),2020-09-03 00:00:00
+PM2.5,2020-09-03,01:00,2020-09-03,09:00,31.0,Micrograms/cubic meter (LC),2020-09-03 01:00:00
+PM2.5,2020-09-03,02:00,2020-09-03,10:00,16.0,Micrograms/cubic meter (LC),2020-09-03 02:00:00
+PM2.5,2020-09-03,03:00,2020-09-03,11:00,28.0,Micrograms/cubic meter (LC),2020-09-03 03:00:00
+PM2.5,2020-09-03,04:00,2020-09-03,12:00,43.0,Micrograms/cubic meter (LC),2020-09-03 04:00:00
+PM2.5,2020-09-03,05:00,2020-09-03,13:00,52.0,Micrograms/cubic meter (LC),2020-09-03 05:00:00
+PM2.5,2020-09-03,06:00,2020-09-03,14:00,32.0,Micrograms/cubic meter (LC),2020-09-03 06:00:00
+PM2.5,2020-09-03,07:00,2020-09-03,15:00,29.0,Micrograms/cubic meter (LC),2020-09-03 07:00:00
+PM2.5,2020-09-03,08:00,2020-09-03,16:00,21.0,Micrograms/cubic meter (LC),2020-09-03 08:00:00
+PM2.5,2020-09-03,09:00,2020-09-03,17:00,35.0,Micrograms/cubic meter (LC),2020-09-03 09:00:00
+PM2.5,2020-09-03,10:00,2020-09-03,18:00,84.0,Micrograms/cubic meter (LC),2020-09-03 10:00:00
+PM2.5,2020-09-03,11:00,2020-09-03,19:00,78.0,Micrograms/cubic meter (LC),2020-09-03 11:00:00
+PM2.5,2020-09-03,12:00,2020-09-03,20:00,44.0,Micrograms/cubic meter (LC),2020-09-03 12:00:00
+PM2.5,2020-09-03,13:00,2020-09-03,21:00,42.0,Micrograms/cubic meter (LC),2020-09-03 13:00:00
+PM2.5,2020-09-03,14:00,2020-09-03,22:00,34.0,Micrograms/cubic meter (LC),2020-09-03 14:00:00
+PM2.5,2020-09-03,15:00,2020-09-03,23:00,30.0,Micrograms/cubic meter (LC),2020-09-03 15:00:00
+PM2.5,2020-09-03,16:00,2020-09-04,00:00,19.0,Micrograms/cubic meter (LC),2020-09-03 16:00:00
+PM2.5,2020-09-03,17:00,2020-09-04,01:00,16.0,Micrograms/cubic meter (LC),2020-09-03 17:00:00
+PM2.5,2020-09-03,18:00,2020-09-04,02:00,17.0,Micrograms/cubic meter (LC),2020-09-03 18:00:00
+PM2.5,2020-09-03,19:00,2020-09-04,03:00,16.0,Micrograms/cubic meter (LC),2020-09-03 19:00:00
+PM2.5,2020-09-03,20:00,2020-09-04,04:00,20.0,Micrograms/cubic meter (LC),2020-09-03 20:00:00
+PM2.5,2020-09-03,21:00,2020-09-04,05:00,17.0,Micrograms/cubic meter (LC),2020-09-03 21:00:00
+PM2.5,2020-09-03,22:00,2020-09-04,06:00,21.0,Micrograms/cubic meter (LC),2020-09-03 22:00:00
+PM2.5,2020-09-03,23:00,2020-09-04,07:00,28.0,Micrograms/cubic meter (LC),2020-09-03 23:00:00
+PM2.5,2020-09-04,00:00,2020-09-04,08:00,36.0,Micrograms/cubic meter (LC),2020-09-04 00:00:00
+PM2.5,2020-09-04,01:00,2020-09-04,09:00,36.0,Micrograms/cubic meter (LC),2020-09-04 01:00:00
+PM2.5,2020-09-04,02:00,2020-09-04,10:00,37.0,Micrograms/cubic meter (LC),2020-09-04 02:00:00
+PM2.5,2020-09-04,03:00,2020-09-04,11:00,23.0,Micrograms/cubic meter (LC),2020-09-04 03:00:00
+PM2.5,2020-09-04,04:00,2020-09-04,12:00,18.0,Micrograms/cubic meter (LC),2020-09-04 04:00:00
+PM2.5,2020-09-04,05:00,2020-09-04,13:00,8.0,Micrograms/cubic meter (LC),2020-09-04 05:00:00
+PM2.5,2020-09-04,06:00,2020-09-04,14:00,19.0,Micrograms/cubic meter (LC),2020-09-04 06:00:00
+PM2.5,2020-09-04,07:00,2020-09-04,15:00,24.0,Micrograms/cubic meter (LC),2020-09-04 07:00:00
+PM2.5,2020-09-04,08:00,2020-09-04,16:00,20.0,Micrograms/cubic meter (LC),2020-09-04 08:00:00
+PM2.5,2020-09-04,09:00,2020-09-04,17:00,13.0,Micrograms/cubic meter (LC),2020-09-04 09:00:00
+PM2.5,2020-09-04,10:00,2020-09-04,18:00,16.0,Micrograms/cubic meter (LC),2020-09-04 10:00:00
+PM2.5,2020-09-04,11:00,2020-09-04,19:00,20.0,Micrograms/cubic meter (LC),2020-09-04 11:00:00
+PM2.5,2020-09-04,12:00,2020-09-04,20:00,18.0,Micrograms/cubic meter (LC),2020-09-04 12:00:00
+PM2.5,2020-09-04,13:00,2020-09-04,21:00,30.0,Micrograms/cubic meter (LC),2020-09-04 13:00:00
+PM2.5,2020-09-04,14:00,2020-09-04,22:00,24.0,Micrograms/cubic meter (LC),2020-09-04 14:00:00
+PM2.5,2020-09-04,15:00,2020-09-04,23:00,18.0,Micrograms/cubic meter (LC),2020-09-04 15:00:00
+PM2.5,2020-09-04,16:00,2020-09-05,00:00,21.0,Micrograms/cubic meter (LC),2020-09-04 16:00:00
+PM2.5,2020-09-04,17:00,2020-09-05,01:00,18.0,Micrograms/cubic meter (LC),2020-09-04 17:00:00
+PM2.5,2020-09-04,18:00,2020-09-05,02:00,23.0,Micrograms/cubic meter (LC),2020-09-04 18:00:00
+PM2.5,2020-09-04,19:00,2020-09-05,03:00,20.0,Micrograms/cubic meter (LC),2020-09-04 19:00:00
+PM2.5,2020-09-04,20:00,2020-09-05,04:00,18.0,Micrograms/cubic meter (LC),2020-09-04 20:00:00
+PM2.5,2020-09-04,21:00,2020-09-05,05:00,22.0,Micrograms/cubic meter (LC),2020-09-04 21:00:00
+PM2.5,2020-09-04,22:00,2020-09-05,06:00,21.0,Micrograms/cubic meter (LC),2020-09-04 22:00:00
+PM2.5,2020-09-04,23:00,2020-09-05,07:00,21.0,Micrograms/cubic meter (LC),2020-09-04 23:00:00
+PM2.5,2020-09-05,00:00,2020-09-05,08:00,20.0,Micrograms/cubic meter (LC),2020-09-05 00:00:00
+PM2.5,2020-09-05,01:00,2020-09-05,09:00,15.0,Micrograms/cubic meter (LC),2020-09-05 01:00:00
+PM2.5,2020-09-05,02:00,2020-09-05,10:00,13.0,Micrograms/cubic meter (LC),2020-09-05 02:00:00
+PM2.5,2020-09-05,03:00,2020-09-05,11:00,15.0,Micrograms/cubic meter (LC),2020-09-05 03:00:00
+PM2.5,2020-09-05,04:00,2020-09-05,12:00,14.0,Micrograms/cubic meter (LC),2020-09-05 04:00:00
+PM2.5,2020-09-05,05:00,2020-09-05,13:00,16.0,Micrograms/cubic meter (LC),2020-09-05 05:00:00
+PM2.5,2020-09-05,06:00,2020-09-05,14:00,19.0,Micrograms/cubic meter (LC),2020-09-05 06:00:00
+PM2.5,2020-09-05,07:00,2020-09-05,15:00,18.0,Micrograms/cubic meter (LC),2020-09-05 07:00:00
+PM2.5,2020-09-05,08:00,2020-09-05,16:00,17.0,Micrograms/cubic meter (LC),2020-09-05 08:00:00
+PM2.5,2020-09-05,09:00,2020-09-05,17:00,20.0,Micrograms/cubic meter (LC),2020-09-05 09:00:00
+PM2.5,2020-09-05,10:00,2020-09-05,18:00,18.0,Micrograms/cubic meter (LC),2020-09-05 10:00:00
+PM2.5,2020-09-05,11:00,2020-09-05,19:00,13.0,Micrograms/cubic meter (LC),2020-09-05 11:00:00
+PM2.5,2020-09-05,12:00,2020-09-05,20:00,12.0,Micrograms/cubic meter (LC),2020-09-05 12:00:00
+PM2.5,2020-09-05,13:00,2020-09-05,21:00,24.0,Micrograms/cubic meter (LC),2020-09-05 13:00:00
+PM2.5,2020-09-05,14:00,2020-09-05,22:00,22.0,Micrograms/cubic meter (LC),2020-09-05 14:00:00
+PM2.5,2020-09-05,15:00,2020-09-05,23:00,29.0,Micrograms/cubic meter (LC),2020-09-05 15:00:00
+PM2.5,2020-09-05,16:00,2020-09-06,00:00,30.0,Micrograms/cubic meter (LC),2020-09-05 16:00:00
+PM2.5,2020-09-05,17:00,2020-09-06,01:00,25.0,Micrograms/cubic meter (LC),2020-09-05 17:00:00
+PM2.5,2020-09-05,18:00,2020-09-06,02:00,24.0,Micrograms/cubic meter (LC),2020-09-05 18:00:00
+PM2.5,2020-09-05,19:00,2020-09-06,03:00,23.0,Micrograms/cubic meter (LC),2020-09-05 19:00:00
+PM2.5,2020-09-05,20:00,2020-09-06,04:00,24.0,Micrograms/cubic meter (LC),2020-09-05 20:00:00
+PM2.5,2020-09-05,21:00,2020-09-06,05:00,14.0,Micrograms/cubic meter (LC),2020-09-05 21:00:00
+PM2.5,2020-09-05,22:00,2020-09-06,06:00,11.0,Micrograms/cubic meter (LC),2020-09-05 22:00:00
+PM2.5,2020-09-05,23:00,2020-09-06,07:00,23.0,Micrograms/cubic meter (LC),2020-09-05 23:00:00
+PM2.5,2020-09-06,00:00,2020-09-06,08:00,17.0,Micrograms/cubic meter (LC),2020-09-06 00:00:00
+PM2.5,2020-09-06,01:00,2020-09-06,09:00,15.0,Micrograms/cubic meter (LC),2020-09-06 01:00:00
+PM2.5,2020-09-06,02:00,2020-09-06,10:00,10.0,Micrograms/cubic meter (LC),2020-09-06 02:00:00
+PM2.5,2020-09-06,03:00,2020-09-06,11:00,9.0,Micrograms/cubic meter (LC),2020-09-06 03:00:00
+PM2.5,2020-09-06,04:00,2020-09-06,12:00,9.0,Micrograms/cubic meter (LC),2020-09-06 04:00:00
+PM2.5,2020-09-06,05:00,2020-09-06,13:00,11.0,Micrograms/cubic meter (LC),2020-09-06 05:00:00
+PM2.5,2020-09-06,06:00,2020-09-06,14:00,13.0,Micrograms/cubic meter (LC),2020-09-06 06:00:00
+PM2.5,2020-09-06,07:00,2020-09-06,15:00,13.0,Micrograms/cubic meter (LC),2020-09-06 07:00:00
+PM2.5,2020-09-06,08:00,2020-09-06,16:00,16.0,Micrograms/cubic meter (LC),2020-09-06 08:00:00
+PM2.5,2020-09-06,09:00,2020-09-06,17:00,16.0,Micrograms/cubic meter (LC),2020-09-06 09:00:00
+PM2.5,2020-09-06,10:00,2020-09-06,18:00,20.0,Micrograms/cubic meter (LC),2020-09-06 10:00:00
+PM2.5,2020-09-06,11:00,2020-09-06,19:00,18.0,Micrograms/cubic meter (LC),2020-09-06 11:00:00
+PM2.5,2020-09-06,12:00,2020-09-06,20:00,31.0,Micrograms/cubic meter (LC),2020-09-06 12:00:00
+PM2.5,2020-09-06,13:00,2020-09-06,21:00,57.0,Micrograms/cubic meter (LC),2020-09-06 13:00:00
+PM2.5,2020-09-06,14:00,2020-09-06,22:00,50.0,Micrograms/cubic meter (LC),2020-09-06 14:00:00
+PM2.5,2020-09-06,15:00,2020-09-06,23:00,44.0,Micrograms/cubic meter (LC),2020-09-06 15:00:00
+PM2.5,2020-09-06,16:00,2020-09-07,00:00,43.0,Micrograms/cubic meter (LC),2020-09-06 16:00:00
+PM2.5,2020-09-06,17:00,2020-09-07,01:00,41.0,Micrograms/cubic meter (LC),2020-09-06 17:00:00
+PM2.5,2020-09-06,18:00,2020-09-07,02:00,39.0,Micrograms/cubic meter (LC),2020-09-06 18:00:00
+PM2.5,2020-09-06,19:00,2020-09-07,03:00,37.0,Micrograms/cubic meter (LC),2020-09-06 19:00:00
+PM2.5,2020-09-06,20:00,2020-09-07,04:00,38.0,Micrograms/cubic meter (LC),2020-09-06 20:00:00
+PM2.5,2020-09-06,21:00,2020-09-07,05:00,25.0,Micrograms/cubic meter (LC),2020-09-06 21:00:00
+PM2.5,2020-09-06,22:00,2020-09-07,06:00,23.0,Micrograms/cubic meter (LC),2020-09-06 22:00:00
+PM2.5,2020-09-06,23:00,2020-09-07,07:00,25.0,Micrograms/cubic meter (LC),2020-09-06 23:00:00
+PM2.5,2020-09-07,00:00,2020-09-07,08:00,22.0,Micrograms/cubic meter (LC),2020-09-07 00:00:00
+PM2.5,2020-09-07,01:00,2020-09-07,09:00,26.0,Micrograms/cubic meter (LC),2020-09-07 01:00:00
+PM2.5,2020-09-07,02:00,2020-09-07,10:00,27.0,Micrograms/cubic meter (LC),2020-09-07 02:00:00
+PM2.5,2020-09-07,03:00,2020-09-07,11:00,37.0,Micrograms/cubic meter (LC),2020-09-07 03:00:00
+PM2.5,2020-09-07,04:00,2020-09-07,12:00,26.0,Micrograms/cubic meter (LC),2020-09-07 04:00:00
+PM2.5,2020-09-07,05:00,2020-09-07,13:00,16.0,Micrograms/cubic meter (LC),2020-09-07 05:00:00
+PM2.5,2020-09-07,06:00,2020-09-07,14:00,19.0,Micrograms/cubic meter (LC),2020-09-07 06:00:00
+PM2.5,2020-09-07,07:00,2020-09-07,15:00,26.0,Micrograms/cubic meter (LC),2020-09-07 07:00:00
+PM2.5,2020-09-07,08:00,2020-09-07,16:00,17.0,Micrograms/cubic meter (LC),2020-09-07 08:00:00
+PM2.5,2020-09-07,09:00,2020-09-07,17:00,23.0,Micrograms/cubic meter (LC),2020-09-07 09:00:00
+PM2.5,2020-09-07,10:00,2020-09-07,18:00,18.0,Micrograms/cubic meter (LC),2020-09-07 10:00:00
+PM2.5,2020-09-07,11:00,2020-09-07,19:00,20.0,Micrograms/cubic meter (LC),2020-09-07 11:00:00
+PM2.5,2020-09-07,12:00,2020-09-07,20:00,24.0,Micrograms/cubic meter (LC),2020-09-07 12:00:00
+PM2.5,2020-09-07,13:00,2020-09-07,21:00,29.0,Micrograms/cubic meter (LC),2020-09-07 13:00:00
+PM2.5,2020-09-07,14:00,2020-09-07,22:00,29.0,Micrograms/cubic meter (LC),2020-09-07 14:00:00
+PM2.5,2020-09-07,15:00,2020-09-07,23:00,27.0,Micrograms/cubic meter (LC),2020-09-07 15:00:00
+PM2.5,2020-09-07,16:00,2020-09-08,00:00,27.0,Micrograms/cubic meter (LC),2020-09-07 16:00:00
+PM2.5,2020-09-07,17:00,2020-09-08,01:00,21.0,Micrograms/cubic meter (LC),2020-09-07 17:00:00
+PM2.5,2020-09-07,18:00,2020-09-08,02:00,20.0,Micrograms/cubic meter (LC),2020-09-07 18:00:00
+PM2.5,2020-09-07,19:00,2020-09-08,03:00,15.0,Micrograms/cubic meter (LC),2020-09-07 19:00:00
+PM2.5,2020-09-07,20:00,2020-09-08,04:00,14.0,Micrograms/cubic meter (LC),2020-09-07 20:00:00
+PM2.5,2020-09-07,21:00,2020-09-08,05:00,12.0,Micrograms/cubic meter (LC),2020-09-07 21:00:00
+PM2.5,2020-09-07,22:00,2020-09-08,06:00,16.0,Micrograms/cubic meter (LC),2020-09-07 22:00:00
+PM2.5,2020-09-07,23:00,2020-09-08,07:00,10.0,Micrograms/cubic meter (LC),2020-09-07 23:00:00
+PM2.5,2020-09-08,00:00,2020-09-08,08:00,13.0,Micrograms/cubic meter (LC),2020-09-08 00:00:00
+PM2.5,2020-09-08,01:00,2020-09-08,09:00,12.0,Micrograms/cubic meter (LC),2020-09-08 01:00:00
+PM2.5,2020-09-08,02:00,2020-09-08,10:00,11.0,Micrograms/cubic meter (LC),2020-09-08 02:00:00
+PM2.5,2020-09-08,03:00,2020-09-08,11:00,10.0,Micrograms/cubic meter (LC),2020-09-08 03:00:00
+PM2.5,2020-09-08,04:00,2020-09-08,12:00,6.0,Micrograms/cubic meter (LC),2020-09-08 04:00:00
+PM2.5,2020-09-08,05:00,2020-09-08,13:00,8.0,Micrograms/cubic meter (LC),2020-09-08 05:00:00
+PM2.5,2020-09-08,06:00,2020-09-08,14:00,10.0,Micrograms/cubic meter (LC),2020-09-08 06:00:00
+PM2.5,2020-09-08,07:00,2020-09-08,15:00,8.0,Micrograms/cubic meter (LC),2020-09-08 07:00:00
+PM2.5,2020-09-08,08:00,2020-09-08,16:00,6.0,Micrograms/cubic meter (LC),2020-09-08 08:00:00
+PM2.5,2020-09-08,09:00,2020-09-08,17:00,10.0,Micrograms/cubic meter (LC),2020-09-08 09:00:00
+PM2.5,2020-09-08,10:00,2020-09-08,18:00,12.0,Micrograms/cubic meter (LC),2020-09-08 10:00:00
+PM2.5,2020-09-08,11:00,2020-09-08,19:00,26.0,Micrograms/cubic meter (LC),2020-09-08 11:00:00
+PM2.5,2020-09-08,12:00,2020-09-08,20:00,44.0,Micrograms/cubic meter (LC),2020-09-08 12:00:00
+PM2.5,2020-09-08,13:00,2020-09-08,21:00,32.0,Micrograms/cubic meter (LC),2020-09-08 13:00:00
+PM2.5,2020-09-08,14:00,2020-09-08,22:00,21.0,Micrograms/cubic meter (LC),2020-09-08 14:00:00
+PM2.5,2020-09-08,15:00,2020-09-08,23:00,13.0,Micrograms/cubic meter (LC),2020-09-08 15:00:00
+PM2.5,2020-09-08,16:00,2020-09-09,00:00,10.0,Micrograms/cubic meter (LC),2020-09-08 16:00:00
+PM2.5,2020-09-08,17:00,2020-09-09,01:00,7.0,Micrograms/cubic meter (LC),2020-09-08 17:00:00
+PM2.5,2020-09-08,18:00,2020-09-09,02:00,8.0,Micrograms/cubic meter (LC),2020-09-08 18:00:00
+PM2.5,2020-09-08,19:00,2020-09-09,03:00,7.0,Micrograms/cubic meter (LC),2020-09-08 19:00:00
+PM2.5,2020-09-08,20:00,2020-09-09,04:00,9.0,Micrograms/cubic meter (LC),2020-09-08 20:00:00
+PM2.5,2020-09-08,21:00,2020-09-09,05:00,8.0,Micrograms/cubic meter (LC),2020-09-08 21:00:00
+PM2.5,2020-09-08,22:00,2020-09-09,06:00,6.0,Micrograms/cubic meter (LC),2020-09-08 22:00:00
+PM2.5,2020-09-08,23:00,2020-09-09,07:00,10.0,Micrograms/cubic meter (LC),2020-09-08 23:00:00
+PM2.5,2020-09-09,00:00,2020-09-09,08:00,12.0,Micrograms/cubic meter (LC),2020-09-09 00:00:00
+PM2.5,2020-09-09,01:00,2020-09-09,09:00,16.0,Micrograms/cubic meter (LC),2020-09-09 01:00:00
+PM2.5,2020-09-09,02:00,2020-09-09,10:00,13.0,Micrograms/cubic meter (LC),2020-09-09 02:00:00
+PM2.5,2020-09-09,03:00,2020-09-09,11:00,14.0,Micrograms/cubic meter (LC),2020-09-09 03:00:00
+PM2.5,2020-09-09,04:00,2020-09-09,12:00,20.0,Micrograms/cubic meter (LC),2020-09-09 04:00:00
+PM2.5,2020-09-09,05:00,2020-09-09,13:00,23.0,Micrograms/cubic meter (LC),2020-09-09 05:00:00
+PM2.5,2020-09-09,06:00,2020-09-09,14:00,22.0,Micrograms/cubic meter (LC),2020-09-09 06:00:00
+PM2.5,2020-09-09,07:00,2020-09-09,15:00,22.0,Micrograms/cubic meter (LC),2020-09-09 07:00:00
+PM2.5,2020-09-09,08:00,2020-09-09,16:00,24.0,Micrograms/cubic meter (LC),2020-09-09 08:00:00
+PM2.5,2020-09-09,09:00,2020-09-09,17:00,29.0,Micrograms/cubic meter (LC),2020-09-09 09:00:00
+PM2.5,2020-09-09,10:00,2020-09-09,18:00,30.0,Micrograms/cubic meter (LC),2020-09-09 10:00:00
+PM2.5,2020-09-09,11:00,2020-09-09,19:00,23.0,Micrograms/cubic meter (LC),2020-09-09 11:00:00
+PM2.5,2020-09-09,12:00,2020-09-09,20:00,22.0,Micrograms/cubic meter (LC),2020-09-09 12:00:00
+PM2.5,2020-09-09,13:00,2020-09-09,21:00,21.0,Micrograms/cubic meter (LC),2020-09-09 13:00:00
+PM2.5,2020-09-09,14:00,2020-09-09,22:00,26.0,Micrograms/cubic meter (LC),2020-09-09 14:00:00
+PM2.5,2020-09-09,15:00,2020-09-09,23:00,31.0,Micrograms/cubic meter (LC),2020-09-09 15:00:00
+PM2.5,2020-09-09,16:00,2020-09-10,00:00,30.0,Micrograms/cubic meter (LC),2020-09-09 16:00:00
+PM2.5,2020-09-09,17:00,2020-09-10,01:00,33.0,Micrograms/cubic meter (LC),2020-09-09 17:00:00
+PM2.5,2020-09-09,18:00,2020-09-10,02:00,35.0,Micrograms/cubic meter (LC),2020-09-09 18:00:00
+PM2.5,2020-09-09,19:00,2020-09-10,03:00,38.0,Micrograms/cubic meter (LC),2020-09-09 19:00:00
+PM2.5,2020-09-09,20:00,2020-09-10,04:00,54.0,Micrograms/cubic meter (LC),2020-09-09 20:00:00
+PM2.5,2020-09-09,21:00,2020-09-10,05:00,64.0,Micrograms/cubic meter (LC),2020-09-09 21:00:00
+PM2.5,2020-09-09,22:00,2020-09-10,06:00,79.0,Micrograms/cubic meter (LC),2020-09-09 22:00:00
+PM2.5,2020-09-09,23:00,2020-09-10,07:00,70.0,Micrograms/cubic meter (LC),2020-09-09 23:00:00
+PM2.5,2020-09-10,00:00,2020-09-10,08:00,73.0,Micrograms/cubic meter (LC),2020-09-10 00:00:00
+PM2.5,2020-09-10,01:00,2020-09-10,09:00,70.0,Micrograms/cubic meter (LC),2020-09-10 01:00:00
+PM2.5,2020-09-10,02:00,2020-09-10,10:00,62.0,Micrograms/cubic meter (LC),2020-09-10 02:00:00
+PM2.5,2020-09-10,03:00,2020-09-10,11:00,54.0,Micrograms/cubic meter (LC),2020-09-10 03:00:00
+PM2.5,2020-09-10,04:00,2020-09-10,12:00,47.0,Micrograms/cubic meter (LC),2020-09-10 04:00:00
+PM2.5,2020-09-10,05:00,2020-09-10,13:00,41.0,Micrograms/cubic meter (LC),2020-09-10 05:00:00
+PM2.5,2020-09-10,06:00,2020-09-10,14:00,60.0,Micrograms/cubic meter (LC),2020-09-10 06:00:00
+PM2.5,2020-09-10,07:00,2020-09-10,15:00,80.0,Micrograms/cubic meter (LC),2020-09-10 07:00:00
+PM2.5,2020-09-10,08:00,2020-09-10,16:00,61.0,Micrograms/cubic meter (LC),2020-09-10 08:00:00
+PM2.5,2020-09-10,09:00,2020-09-10,17:00,64.0,Micrograms/cubic meter (LC),2020-09-10 09:00:00
+PM2.5,2020-09-10,10:00,2020-09-10,18:00,75.0,Micrograms/cubic meter (LC),2020-09-10 10:00:00
+PM2.5,2020-09-10,11:00,2020-09-10,19:00,94.0,Micrograms/cubic meter (LC),2020-09-10 11:00:00
+PM2.5,2020-09-10,12:00,2020-09-10,20:00,70.0,Micrograms/cubic meter (LC),2020-09-10 12:00:00
+PM2.5,2020-09-10,13:00,2020-09-10,21:00,127.0,Micrograms/cubic meter (LC),2020-09-10 13:00:00
+PM2.5,2020-09-10,14:00,2020-09-10,22:00,146.0,Micrograms/cubic meter (LC),2020-09-10 14:00:00
+PM2.5,2020-09-10,15:00,2020-09-10,23:00,173.0,Micrograms/cubic meter (LC),2020-09-10 15:00:00
+PM2.5,2020-09-10,16:00,2020-09-11,00:00,174.0,Micrograms/cubic meter (LC),2020-09-10 16:00:00
+PM2.5,2020-09-10,17:00,2020-09-11,01:00,165.0,Micrograms/cubic meter (LC),2020-09-10 17:00:00
+PM2.5,2020-09-10,18:00,2020-09-11,02:00,136.0,Micrograms/cubic meter (LC),2020-09-10 18:00:00
+PM2.5,2020-09-10,19:00,2020-09-11,03:00,148.0,Micrograms/cubic meter (LC),2020-09-10 19:00:00
+PM2.5,2020-09-10,20:00,2020-09-11,04:00,154.0,Micrograms/cubic meter (LC),2020-09-10 20:00:00
+PM2.5,2020-09-10,21:00,2020-09-11,05:00,160.0,Micrograms/cubic meter (LC),2020-09-10 21:00:00
+PM2.5,2020-09-10,22:00,2020-09-11,06:00,158.0,Micrograms/cubic meter (LC),2020-09-10 22:00:00
+PM2.5,2020-09-10,23:00,2020-09-11,07:00,161.0,Micrograms/cubic meter (LC),2020-09-10 23:00:00
+PM2.5,2020-09-11,00:00,2020-09-11,08:00,162.0,Micrograms/cubic meter (LC),2020-09-11 00:00:00
+PM2.5,2020-09-11,01:00,2020-09-11,09:00,159.0,Micrograms/cubic meter (LC),2020-09-11 01:00:00
+PM2.5,2020-09-11,02:00,2020-09-11,10:00,153.0,Micrograms/cubic meter (LC),2020-09-11 02:00:00
+PM2.5,2020-09-11,03:00,2020-09-11,11:00,154.0,Micrograms/cubic meter (LC),2020-09-11 03:00:00
+PM2.5,2020-09-11,04:00,2020-09-11,12:00,158.0,Micrograms/cubic meter (LC),2020-09-11 04:00:00
+PM2.5,2020-09-11,05:00,2020-09-11,13:00,159.0,Micrograms/cubic meter (LC),2020-09-11 05:00:00
+PM2.5,2020-09-11,06:00,2020-09-11,14:00,154.0,Micrograms/cubic meter (LC),2020-09-11 06:00:00
+PM2.5,2020-09-11,07:00,2020-09-11,15:00,156.0,Micrograms/cubic meter (LC),2020-09-11 07:00:00
+PM2.5,2020-09-11,08:00,2020-09-11,16:00,181.0,Micrograms/cubic meter (LC),2020-09-11 08:00:00
+PM2.5,2020-09-11,09:00,2020-09-11,17:00,196.0,Micrograms/cubic meter (LC),2020-09-11 09:00:00
+PM2.5,2020-09-11,10:00,2020-09-11,18:00,169.0,Micrograms/cubic meter (LC),2020-09-11 10:00:00
+PM2.5,2020-09-11,11:00,2020-09-11,19:00,151.0,Micrograms/cubic meter (LC),2020-09-11 11:00:00
+PM2.5,2020-09-11,12:00,2020-09-11,20:00,122.0,Micrograms/cubic meter (LC),2020-09-11 12:00:00
+PM2.5,2020-09-11,13:00,2020-09-11,21:00,132.0,Micrograms/cubic meter (LC),2020-09-11 13:00:00
+PM2.5,2020-09-11,14:00,2020-09-11,22:00,146.0,Micrograms/cubic meter (LC),2020-09-11 14:00:00
+PM2.5,2020-09-11,15:00,2020-09-11,23:00,141.0,Micrograms/cubic meter (LC),2020-09-11 15:00:00
+PM2.5,2020-09-11,16:00,2020-09-12,00:00,137.0,Micrograms/cubic meter (LC),2020-09-11 16:00:00
+PM2.5,2020-09-11,17:00,2020-09-12,01:00,135.0,Micrograms/cubic meter (LC),2020-09-11 17:00:00
+PM2.5,2020-09-11,18:00,2020-09-12,02:00,136.0,Micrograms/cubic meter (LC),2020-09-11 18:00:00
+PM2.5,2020-09-11,19:00,2020-09-12,03:00,125.0,Micrograms/cubic meter (LC),2020-09-11 19:00:00
+PM2.5,2020-09-11,20:00,2020-09-12,04:00,122.0,Micrograms/cubic meter (LC),2020-09-11 20:00:00
+PM2.5,2020-09-11,21:00,2020-09-12,05:00,118.0,Micrograms/cubic meter (LC),2020-09-11 21:00:00
+PM2.5,2020-09-11,22:00,2020-09-12,06:00,118.0,Micrograms/cubic meter (LC),2020-09-11 22:00:00
+PM2.5,2020-09-11,23:00,2020-09-12,07:00,108.0,Micrograms/cubic meter (LC),2020-09-11 23:00:00
+PM2.5,2020-09-12,00:00,2020-09-12,08:00,111.0,Micrograms/cubic meter (LC),2020-09-12 00:00:00
+PM2.5,2020-09-12,01:00,2020-09-12,09:00,108.0,Micrograms/cubic meter (LC),2020-09-12 01:00:00
+PM2.5,2020-09-12,02:00,2020-09-12,10:00,109.0,Micrograms/cubic meter (LC),2020-09-12 02:00:00
+PM2.5,2020-09-12,03:00,2020-09-12,11:00,108.0,Micrograms/cubic meter (LC),2020-09-12 03:00:00
+PM2.5,2020-09-12,04:00,2020-09-12,12:00,109.0,Micrograms/cubic meter (LC),2020-09-12 04:00:00
+PM2.5,2020-09-12,05:00,2020-09-12,13:00,102.0,Micrograms/cubic meter (LC),2020-09-12 05:00:00
+PM2.5,2020-09-12,06:00,2020-09-12,14:00,102.0,Micrograms/cubic meter (LC),2020-09-12 06:00:00
+PM2.5,2020-09-12,07:00,2020-09-12,15:00,103.0,Micrograms/cubic meter (LC),2020-09-12 07:00:00
+PM2.5,2020-09-12,08:00,2020-09-12,16:00,109.0,Micrograms/cubic meter (LC),2020-09-12 08:00:00
+PM2.5,2020-09-12,09:00,2020-09-12,17:00,106.0,Micrograms/cubic meter (LC),2020-09-12 09:00:00
+PM2.5,2020-09-12,10:00,2020-09-12,18:00,107.0,Micrograms/cubic meter (LC),2020-09-12 10:00:00
+PM2.5,2020-09-12,11:00,2020-09-12,19:00,110.0,Micrograms/cubic meter (LC),2020-09-12 11:00:00
+PM2.5,2020-09-12,12:00,2020-09-12,20:00,103.0,Micrograms/cubic meter (LC),2020-09-12 12:00:00
+PM2.5,2020-09-12,13:00,2020-09-12,21:00,102.0,Micrograms/cubic meter (LC),2020-09-12 13:00:00
+PM2.5,2020-09-12,14:00,2020-09-12,22:00,90.0,Micrograms/cubic meter (LC),2020-09-12 14:00:00
+PM2.5,2020-09-12,15:00,2020-09-12,23:00,83.0,Micrograms/cubic meter (LC),2020-09-12 15:00:00
+PM2.5,2020-09-12,16:00,2020-09-13,00:00,92.0,Micrograms/cubic meter (LC),2020-09-12 16:00:00
+PM2.5,2020-09-12,17:00,2020-09-13,01:00,97.0,Micrograms/cubic meter (LC),2020-09-12 17:00:00
+PM2.5,2020-09-12,18:00,2020-09-13,02:00,95.0,Micrograms/cubic meter (LC),2020-09-12 18:00:00
+PM2.5,2020-09-12,19:00,2020-09-13,03:00,78.0,Micrograms/cubic meter (LC),2020-09-12 19:00:00
+PM2.5,2020-09-12,20:00,2020-09-13,04:00,86.0,Micrograms/cubic meter (LC),2020-09-12 20:00:00
+PM2.5,2020-09-12,21:00,2020-09-13,05:00,79.0,Micrograms/cubic meter (LC),2020-09-12 21:00:00
+PM2.5,2020-09-12,22:00,2020-09-13,06:00,86.0,Micrograms/cubic meter (LC),2020-09-12 22:00:00
+PM2.5,2020-09-12,23:00,2020-09-13,07:00,96.0,Micrograms/cubic meter (LC),2020-09-12 23:00:00
+PM2.5,2020-09-13,00:00,2020-09-13,08:00,95.0,Micrograms/cubic meter (LC),2020-09-13 00:00:00
+PM2.5,2020-09-13,01:00,2020-09-13,09:00,92.0,Micrograms/cubic meter (LC),2020-09-13 01:00:00
+PM2.5,2020-09-13,02:00,2020-09-13,10:00,88.0,Micrograms/cubic meter (LC),2020-09-13 02:00:00
+PM2.5,2020-09-13,03:00,2020-09-13,11:00,84.0,Micrograms/cubic meter (LC),2020-09-13 03:00:00
+PM2.5,2020-09-13,04:00,2020-09-13,12:00,84.0,Micrograms/cubic meter (LC),2020-09-13 04:00:00
+PM2.5,2020-09-13,05:00,2020-09-13,13:00,81.0,Micrograms/cubic meter (LC),2020-09-13 05:00:00
+PM2.5,2020-09-13,06:00,2020-09-13,14:00,80.0,Micrograms/cubic meter (LC),2020-09-13 06:00:00
+PM2.5,2020-09-13,07:00,2020-09-13,15:00,102.0,Micrograms/cubic meter (LC),2020-09-13 07:00:00
+PM2.5,2020-09-13,08:00,2020-09-13,16:00,79.0,Micrograms/cubic meter (LC),2020-09-13 08:00:00
+PM2.5,2020-09-13,09:00,2020-09-13,17:00,80.0,Micrograms/cubic meter (LC),2020-09-13 09:00:00
+PM2.5,2020-09-13,10:00,2020-09-13,18:00,81.0,Micrograms/cubic meter (LC),2020-09-13 10:00:00
+PM2.5,2020-09-13,11:00,2020-09-13,19:00,91.0,Micrograms/cubic meter (LC),2020-09-13 11:00:00
+PM2.5,2020-09-13,12:00,2020-09-13,20:00,81.0,Micrograms/cubic meter (LC),2020-09-13 12:00:00
+PM2.5,2020-09-13,13:00,2020-09-13,21:00,80.0,Micrograms/cubic meter (LC),2020-09-13 13:00:00
+PM2.5,2020-09-13,14:00,2020-09-13,22:00,91.0,Micrograms/cubic meter (LC),2020-09-13 14:00:00
+PM2.5,2020-09-13,15:00,2020-09-13,23:00,106.0,Micrograms/cubic meter (LC),2020-09-13 15:00:00
+PM2.5,2020-09-13,16:00,2020-09-14,00:00,129.0,Micrograms/cubic meter (LC),2020-09-13 16:00:00
+PM2.5,2020-09-13,17:00,2020-09-14,01:00,143.0,Micrograms/cubic meter (LC),2020-09-13 17:00:00
+PM2.5,2020-09-13,18:00,2020-09-14,02:00,122.0,Micrograms/cubic meter (LC),2020-09-13 18:00:00
+PM2.5,2020-09-13,19:00,2020-09-14,03:00,108.0,Micrograms/cubic meter (LC),2020-09-13 19:00:00
+PM2.5,2020-09-13,20:00,2020-09-14,04:00,119.0,Micrograms/cubic meter (LC),2020-09-13 20:00:00
+PM2.5,2020-09-13,21:00,2020-09-14,05:00,125.0,Micrograms/cubic meter (LC),2020-09-13 21:00:00
+PM2.5,2020-09-13,22:00,2020-09-14,06:00,122.0,Micrograms/cubic meter (LC),2020-09-13 22:00:00
+PM2.5,2020-09-13,23:00,2020-09-14,07:00,130.0,Micrograms/cubic meter (LC),2020-09-13 23:00:00
+PM2.5,2020-09-14,00:00,2020-09-14,08:00,132.0,Micrograms/cubic meter (LC),2020-09-14 00:00:00
+PM2.5,2020-09-14,01:00,2020-09-14,09:00,135.0,Micrograms/cubic meter (LC),2020-09-14 01:00:00
+PM2.5,2020-09-14,02:00,2020-09-14,10:00,126.0,Micrograms/cubic meter (LC),2020-09-14 02:00:00
+PM2.5,2020-09-14,03:00,2020-09-14,11:00,129.0,Micrograms/cubic meter (LC),2020-09-14 03:00:00
+PM2.5,2020-09-14,04:00,2020-09-14,12:00,124.0,Micrograms/cubic meter (LC),2020-09-14 04:00:00
+PM2.5,2020-09-14,05:00,2020-09-14,13:00,120.0,Micrograms/cubic meter (LC),2020-09-14 05:00:00
+PM2.5,2020-09-14,06:00,2020-09-14,14:00,120.0,Micrograms/cubic meter (LC),2020-09-14 06:00:00
+PM2.5,2020-09-14,07:00,2020-09-14,15:00,120.0,Micrograms/cubic meter (LC),2020-09-14 07:00:00
+PM2.5,2020-09-14,08:00,2020-09-14,16:00,120.0,Micrograms/cubic meter (LC),2020-09-14 08:00:00
+PM2.5,2020-09-14,09:00,2020-09-14,17:00,110.0,Micrograms/cubic meter (LC),2020-09-14 09:00:00
+PM2.5,2020-09-14,10:00,2020-09-14,18:00,112.0,Micrograms/cubic meter (LC),2020-09-14 10:00:00
+PM2.5,2020-09-14,11:00,2020-09-14,19:00,108.0,Micrograms/cubic meter (LC),2020-09-14 11:00:00
+PM2.5,2020-09-14,12:00,2020-09-14,20:00,109.0,Micrograms/cubic meter (LC),2020-09-14 12:00:00
+PM2.5,2020-09-14,13:00,2020-09-14,21:00,106.0,Micrograms/cubic meter (LC),2020-09-14 13:00:00
+PM2.5,2020-09-14,14:00,2020-09-14,22:00,106.0,Micrograms/cubic meter (LC),2020-09-14 14:00:00
+PM2.5,2020-09-14,15:00,2020-09-14,23:00,107.0,Micrograms/cubic meter (LC),2020-09-14 15:00:00
+PM2.5,2020-09-14,16:00,2020-09-15,00:00,105.0,Micrograms/cubic meter (LC),2020-09-14 16:00:00
+PM2.5,2020-09-14,17:00,2020-09-15,01:00,99.0,Micrograms/cubic meter (LC),2020-09-14 17:00:00
+PM2.5,2020-09-14,18:00,2020-09-15,02:00,92.0,Micrograms/cubic meter (LC),2020-09-14 18:00:00
+PM2.5,2020-09-14,19:00,2020-09-15,03:00,73.0,Micrograms/cubic meter (LC),2020-09-14 19:00:00
+PM2.5,2020-09-14,20:00,2020-09-15,04:00,53.0,Micrograms/cubic meter (LC),2020-09-14 20:00:00
+PM2.5,2020-09-14,21:00,2020-09-15,05:00,71.0,Micrograms/cubic meter (LC),2020-09-14 21:00:00
+PM2.5,2020-09-14,22:00,2020-09-15,06:00,73.0,Micrograms/cubic meter (LC),2020-09-14 22:00:00
+PM2.5,2020-09-14,23:00,2020-09-15,07:00,76.0,Micrograms/cubic meter (LC),2020-09-14 23:00:00
+PM2.5,2020-09-15,00:00,2020-09-15,08:00,69.0,Micrograms/cubic meter (LC),2020-09-15 00:00:00
+PM2.5,2020-09-15,01:00,2020-09-15,09:00,58.0,Micrograms/cubic meter (LC),2020-09-15 01:00:00
+PM2.5,2020-09-15,02:00,2020-09-15,10:00,58.0,Micrograms/cubic meter (LC),2020-09-15 02:00:00
+PM2.5,2020-09-15,03:00,2020-09-15,11:00,48.0,Micrograms/cubic meter (LC),2020-09-15 03:00:00
+PM2.5,2020-09-15,04:00,2020-09-15,12:00,42.0,Micrograms/cubic meter (LC),2020-09-15 04:00:00
+PM2.5,2020-09-15,05:00,2020-09-15,13:00,43.0,Micrograms/cubic meter (LC),2020-09-15 05:00:00
+PM2.5,2020-09-15,06:00,2020-09-15,14:00,40.0,Micrograms/cubic meter (LC),2020-09-15 06:00:00
+PM2.5,2020-09-15,07:00,2020-09-15,15:00,37.0,Micrograms/cubic meter (LC),2020-09-15 07:00:00
+PM2.5,2020-09-15,08:00,2020-09-15,16:00,33.0,Micrograms/cubic meter (LC),2020-09-15 08:00:00
+PM2.5,2020-09-15,09:00,2020-09-15,17:00,30.0,Micrograms/cubic meter (LC),2020-09-15 09:00:00
+PM2.5,2020-09-15,10:00,2020-09-15,18:00,29.0,Micrograms/cubic meter (LC),2020-09-15 10:00:00
+PM2.5,2020-09-15,11:00,2020-09-15,19:00,25.0,Micrograms/cubic meter (LC),2020-09-15 11:00:00
+PM2.5,2020-09-15,12:00,2020-09-15,20:00,20.0,Micrograms/cubic meter (LC),2020-09-15 12:00:00
+PM2.5,2020-09-15,13:00,2020-09-15,21:00,13.0,Micrograms/cubic meter (LC),2020-09-15 13:00:00
+PM2.5,2020-09-15,14:00,2020-09-15,22:00,12.0,Micrograms/cubic meter (LC),2020-09-15 14:00:00
+PM2.5,2020-09-15,15:00,2020-09-15,23:00,10.0,Micrograms/cubic meter (LC),2020-09-15 15:00:00
+PM2.5,2020-09-15,16:00,2020-09-16,00:00,6.0,Micrograms/cubic meter (LC),2020-09-15 16:00:00
+PM2.5,2020-09-15,17:00,2020-09-16,01:00,3.0,Micrograms/cubic meter (LC),2020-09-15 17:00:00
+PM2.5,2020-09-15,18:00,2020-09-16,02:00,4.0,Micrograms/cubic meter (LC),2020-09-15 18:00:00
+PM2.5,2020-09-15,19:00,2020-09-16,03:00,3.0,Micrograms/cubic meter (LC),2020-09-15 19:00:00
+PM2.5,2020-09-15,20:00,2020-09-16,04:00,2.0,Micrograms/cubic meter (LC),2020-09-15 20:00:00
+PM2.5,2020-09-15,21:00,2020-09-16,05:00,0.0,Micrograms/cubic meter (LC),2020-09-15 21:00:00
+PM2.5,2020-09-15,22:00,2020-09-16,06:00,3.0,Micrograms/cubic meter (LC),2020-09-15 22:00:00
+PM2.5,2020-09-15,23:00,2020-09-16,07:00,2.0,Micrograms/cubic meter (LC),2020-09-15 23:00:00
+PM2.5,2020-09-16,00:00,2020-09-16,08:00,2.0,Micrograms/cubic meter (LC),2020-09-16 00:00:00
+PM2.5,2020-09-16,01:00,2020-09-16,09:00,5.0,Micrograms/cubic meter (LC),2020-09-16 01:00:00
+PM2.5,2020-09-16,02:00,2020-09-16,10:00,4.0,Micrograms/cubic meter (LC),2020-09-16 02:00:00
+PM2.5,2020-09-16,03:00,2020-09-16,11:00,2.0,Micrograms/cubic meter (LC),2020-09-16 03:00:00
+PM2.5,2020-09-16,04:00,2020-09-16,12:00,2.0,Micrograms/cubic meter (LC),2020-09-16 04:00:00
+PM2.5,2020-09-16,05:00,2020-09-16,13:00,1.0,Micrograms/cubic meter (LC),2020-09-16 05:00:00
+PM2.5,2020-09-16,06:00,2020-09-16,14:00,0.0,Micrograms/cubic meter (LC),2020-09-16 06:00:00
+PM2.5,2020-09-16,07:00,2020-09-16,15:00,3.0,Micrograms/cubic meter (LC),2020-09-16 07:00:00
+PM2.5,2020-09-16,08:00,2020-09-16,16:00,,Micrograms/cubic meter (LC),2020-09-16 08:00:00
+PM2.5,2020-09-16,09:00,2020-09-16,17:00,10.0,Micrograms/cubic meter (LC),2020-09-16 09:00:00
+PM2.5,2020-09-16,10:00,2020-09-16,18:00,6.0,Micrograms/cubic meter (LC),2020-09-16 10:00:00
+PM2.5,2020-09-16,11:00,2020-09-16,19:00,3.0,Micrograms/cubic meter (LC),2020-09-16 11:00:00
+PM2.5,2020-09-16,12:00,2020-09-16,20:00,5.0,Micrograms/cubic meter (LC),2020-09-16 12:00:00
+PM2.5,2020-09-16,13:00,2020-09-16,21:00,7.0,Micrograms/cubic meter (LC),2020-09-16 13:00:00
+PM2.5,2020-09-16,14:00,2020-09-16,22:00,5.0,Micrograms/cubic meter (LC),2020-09-16 14:00:00
+PM2.5,2020-09-16,15:00,2020-09-16,23:00,4.0,Micrograms/cubic meter (LC),2020-09-16 15:00:00
+PM2.5,2020-09-16,16:00,2020-09-17,00:00,3.0,Micrograms/cubic meter (LC),2020-09-16 16:00:00
+PM2.5,2020-09-16,17:00,2020-09-17,01:00,6.0,Micrograms/cubic meter (LC),2020-09-16 17:00:00
+PM2.5,2020-09-16,18:00,2020-09-17,02:00,6.0,Micrograms/cubic meter (LC),2020-09-16 18:00:00
+PM2.5,2020-09-16,19:00,2020-09-17,03:00,5.0,Micrograms/cubic meter (LC),2020-09-16 19:00:00
+PM2.5,2020-09-16,20:00,2020-09-17,04:00,5.0,Micrograms/cubic meter (LC),2020-09-16 20:00:00
+PM2.5,2020-09-16,21:00,2020-09-17,05:00,3.0,Micrograms/cubic meter (LC),2020-09-16 21:00:00
+PM2.5,2020-09-16,22:00,2020-09-17,06:00,3.0,Micrograms/cubic meter (LC),2020-09-16 22:00:00
+PM2.5,2020-09-16,23:00,2020-09-17,07:00,0.0,Micrograms/cubic meter (LC),2020-09-16 23:00:00
+PM2.5,2020-09-17,00:00,2020-09-17,08:00,0.0,Micrograms/cubic meter (LC),2020-09-17 00:00:00
+PM2.5,2020-09-17,01:00,2020-09-17,09:00,1.0,Micrograms/cubic meter (LC),2020-09-17 01:00:00
+PM2.5,2020-09-17,02:00,2020-09-17,10:00,2.0,Micrograms/cubic meter (LC),2020-09-17 02:00:00
+PM2.5,2020-09-17,03:00,2020-09-17,11:00,2.0,Micrograms/cubic meter (LC),2020-09-17 03:00:00
+PM2.5,2020-09-17,04:00,2020-09-17,12:00,2.0,Micrograms/cubic meter (LC),2020-09-17 04:00:00
+PM2.5,2020-09-17,05:00,2020-09-17,13:00,3.0,Micrograms/cubic meter (LC),2020-09-17 05:00:00
+PM2.5,2020-09-17,06:00,2020-09-17,14:00,1.0,Micrograms/cubic meter (LC),2020-09-17 06:00:00
+PM2.5,2020-09-17,07:00,2020-09-17,15:00,5.0,Micrograms/cubic meter (LC),2020-09-17 07:00:00
+PM2.5,2020-09-17,08:00,2020-09-17,16:00,7.0,Micrograms/cubic meter (LC),2020-09-17 08:00:00
+PM2.5,2020-09-17,09:00,2020-09-17,17:00,8.0,Micrograms/cubic meter (LC),2020-09-17 09:00:00
+PM2.5,2020-09-17,10:00,2020-09-17,18:00,5.0,Micrograms/cubic meter (LC),2020-09-17 10:00:00
+PM2.5,2020-09-17,11:00,2020-09-17,19:00,2.0,Micrograms/cubic meter (LC),2020-09-17 11:00:00
+PM2.5,2020-09-17,12:00,2020-09-17,20:00,2.0,Micrograms/cubic meter (LC),2020-09-17 12:00:00
+PM2.5,2020-09-17,13:00,2020-09-17,21:00,4.0,Micrograms/cubic meter (LC),2020-09-17 13:00:00
+PM2.5,2020-09-17,14:00,2020-09-17,22:00,3.0,Micrograms/cubic meter (LC),2020-09-17 14:00:00
+PM2.5,2020-09-17,15:00,2020-09-17,23:00,3.0,Micrograms/cubic meter (LC),2020-09-17 15:00:00
+PM2.5,2020-09-17,16:00,2020-09-18,00:00,4.0,Micrograms/cubic meter (LC),2020-09-17 16:00:00
+PM2.5,2020-09-17,17:00,2020-09-18,01:00,8.0,Micrograms/cubic meter (LC),2020-09-17 17:00:00
+PM2.5,2020-09-17,18:00,2020-09-18,02:00,10.0,Micrograms/cubic meter (LC),2020-09-17 18:00:00
+PM2.5,2020-09-17,19:00,2020-09-18,03:00,8.0,Micrograms/cubic meter (LC),2020-09-17 19:00:00
+PM2.5,2020-09-17,20:00,2020-09-18,04:00,8.0,Micrograms/cubic meter (LC),2020-09-17 20:00:00
+PM2.5,2020-09-17,21:00,2020-09-18,05:00,7.0,Micrograms/cubic meter (LC),2020-09-17 21:00:00
+PM2.5,2020-09-17,22:00,2020-09-18,06:00,5.0,Micrograms/cubic meter (LC),2020-09-17 22:00:00
+PM2.5,2020-09-17,23:00,2020-09-18,07:00,7.0,Micrograms/cubic meter (LC),2020-09-17 23:00:00
