@@ -1,8 +1,7 @@
 name: Clean Notebooks
 
 # This action runs on every push to any branch
-on: 
-  workflow_call:
+on: [push]
 
 jobs:
   clean-notebooks:
