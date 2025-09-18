@@ -1,0 +1,44 @@
+name: Clean Notebooks
+
+# This action runs on every push to any branch
+on: 
+  workflow_call:
+
+jobs:
+  clean-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository's code
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Step 3: Install the clean-nb tool
+      - name: Install dependencies
+        run: pip install clean-nb
+
+      # Step 4: Run the cleaner on all notebooks in the repository
+      - name: Run clean-nb
+        run: find . -name "*.ipynb" -exec clean-nb {} +
+
+      # Step 5: Check for changes and commit them back to the repository
+      - name: Commit and push cleaned notebooks
+        run: |
+          # Configure git with bot user
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add all changes to staging
+          git add .
+          
+          # Check for changes. If there are changes, commit them.
+          # The '|| exit 0' part prevents the script from failing if there are no changes.
+          git diff-index --quiet HEAD || git commit -m "style: auto-clean outputs"
+          
+          # Push the changes back to the branch
+          git push
