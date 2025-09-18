@@ -1,7 +1,0 @@
-name: Clean Notebooks
-
-on: [push]
-
-jobs:
-  clean-notebooks:
-    uses: .github/workflows/clean_notebooks.yml@main
