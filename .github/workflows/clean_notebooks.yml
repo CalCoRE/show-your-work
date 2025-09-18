@@ -17,13 +17,13 @@ jobs:
         with:
           python-version: '3.11'
 
-      # Step 3: Install the clean-nb tool
+      # Step 3: Install the nbstripout tool
       - name: Install dependencies
-        run: pip install clean-nb
+        run: pip install nbstripout
 
       # Step 4: Run the cleaner on all notebooks in the repository
       - name: Run clean-nb
-        run: find . -name "*.ipynb" -exec clean-nb {} +
+        run: find . -name "*.ipynb" -exec nbstripout {} +
 
       # Step 5: Check for changes and commit them back to the repository
       - name: Commit and push cleaned notebooks
