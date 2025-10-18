@@ -1,5 +1,6 @@
-# show-your-work
-Introduction to Computational Notebooks for K-12 Educators
+![SyW logo](https://github.com/CalCoRE/show-your-work/blob/main/images/syw.png)
+
+# Show Your Work: A Gentle Introduction to Computational Notebooks for K-12 Educators
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
