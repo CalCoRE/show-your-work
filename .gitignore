@@ -1,3 +1,6 @@
 .DS_Store
 intro/.DS_Store
 .vscode
+
+//Ignore the template so it doesn't go on github
+template.ipynb
