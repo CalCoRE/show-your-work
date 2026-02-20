@@ -12,3 +12,7 @@ uv.lock
 
 //Remove working python files
 *.py
+
+//Remove files when previewing notebooks
+*files/
+*.html
