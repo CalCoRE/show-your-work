@@ -9,6 +9,7 @@ dependencies = [
     "great-tables>=0.20.0",
     "ipykernel>=7.1.0",
     "jupyterlab>=4.5.2",
+    "kagglehub>=1.0.0",
     "matplotlib>=3.10.8",
     "notebook>=7.5.2",
     "numpy>=2.4.1",
