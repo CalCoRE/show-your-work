@@ -1,6 +1,6 @@
-//Ignore the template so it doesn't go on github
+.DS_Store
+intro/.DS_Store
 template.ipynb
-
 
 //Ignore anything from using uv
 .venv/
