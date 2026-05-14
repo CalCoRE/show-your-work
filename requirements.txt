@@ -6,3 +6,4 @@ geopandas
 plotly
 IPython
 nbformat
+nbclient
