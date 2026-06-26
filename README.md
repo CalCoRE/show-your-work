@@ -6,7 +6,7 @@
 
 Show Your Work is a suite of free, web-based introductory Jupyter notebooks designed for K-12 educators with little to no prior experience with programming. The project builds on theory and findings from the learning sciences and science education to introduce computational notebooks as epistemic tools within specific school subject domains. Our goal is to help teachers envision what role these tools might play in their classrooms, by allowing them to experience first-hand what it feels like to conduct notebook-based computational data investigation.
 
-These resources are designed to be flexible we suggest everyone starts with the Intro notebook, but after that, feel free to select the sample investigations that make the most sense for _your_ classroom!
+These resources are designed to be flexible. We suggest everyone starts with the Intro notebook, but after that, feel free to select the sample investigations that make the most sense for _your_ classroom!
 
 We are still actively developing the Show Your Work suite of notebooks, so check back for new sample investigations!
 
