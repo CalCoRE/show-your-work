@@ -13,3 +13,5 @@ uv.lock
 //Remove files when previewing notebooks
 *files/
 *.html
+
+study_data*.csv
