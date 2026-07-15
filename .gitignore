@@ -13,3 +13,9 @@ uv.lock
 //Remove files when previewing notebooks
 *files/
 *.html
+
+//To stop uploading of participant metadata
+meta*.csv
+
+//To stop uploading individual csv files for `logging.R` script
+*_tmp/
